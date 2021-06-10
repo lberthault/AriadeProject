@@ -235,21 +235,21 @@ MonoBehaviour:
   features:
   - {fileID: -8678300827090473026}
   - {fileID: -7075703562000449141}
-  - {fileID: 4100405374571227625}
-  - {fileID: 3589554474263713046}
-  - {fileID: 1175495594494079621}
   - {fileID: -6796069037692269490}
   - {fileID: -3886962386488625583}
   - {fileID: 6547895565498735435}
   - {fileID: -452317245974792056}
-  - {fileID: -6963938695848734417}
-  - {fileID: 4980018699807198380}
-  - {fileID: 4119446948312680554}
   - {fileID: 3097498982179103171}
-  - {fileID: 8052067476772943408}
   - {fileID: 7288499678012572238}
+  - {fileID: 1175495594494079621}
+  - {fileID: 4100405374571227625}
+  - {fileID: 3589554474263713046}
+  - {fileID: 4119446948312680554}
   - {fileID: 2198121486794672931}
   - {fileID: 6759757859588922324}
+  - {fileID: 4980018699807198380}
+  - {fileID: -6963938695848734417}
+  - {fileID: 8052067476772943408}
   m_renderMode: 1
   m_depthSubmissionMode: 1
 --- !u!114 &-6869215453431191385
@@ -1731,7 +1731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8f1ce8139888c4ab621f6b3c8bb558, type: 3}
   m_Name: MotionControllerFeaturePlugin Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Motion Controller Model
   version: 0.9.5
   featureIdInternal: com.microsoft.openxr.feature.controller
@@ -2050,7 +2050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f34c86d1a130cc45a438373e1e8a4fc, type: 3}
   m_Name: EditorRemotingPlugin Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Holographic Editor Remoting
   version: 0.9.5
   featureIdInternal: com.microsoft.openxr.feature.editorremoting
@@ -2060,8 +2060,8 @@ MonoBehaviour:
   required: 0
   m_remoteHostName: 192.168.0.13
   m_remoteHostPort: 8265
-  m_maxBitrate: 20000
-  m_videoCodec: 0
+  m_maxBitrate: 1000000
+  m_videoCodec: 2
   m_enableAudio: 0
 --- !u!114 &6784745633715397041
 MonoBehaviour:
@@ -2165,7 +2165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8f1ce8139888c4ab621f6b3c8bb558, type: 3}
   m_Name: MotionControllerFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Motion Controller Model
   version: 0.9.5
   featureIdInternal: com.microsoft.openxr.feature.controller
@@ -2274,7 +2274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c79c911b38743a649b1c1eddb5097202, type: 3}
   m_Name: HandTrackingFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Hand Tracking
   version: 0.9.5
   featureIdInternal: com.microsoft.openxr.feature.handtracking

@@ -294,7 +294,7 @@ public class SimulationManager : MonoBehaviour
 
         h = 0f;
         c = 0.4f;
-        rY = new List<float>() { -90f, +90f, +180f, 0f, +0f, -30f, +180f };
+        rY = new List<float>() { -90f, +90f, +180f, 0f, +0f, -50f, +180f };
         rX = 0f;
         PEANUT = new AdviceConfig(peanutPrefab, peanutWrongWayPrefab, h, c, rY, rX);
     }
@@ -356,28 +356,8 @@ public class SimulationManager : MonoBehaviour
         }
     }
 
-    LineRenderer lr;
-    private bool? prevCalibrationStatus = null;
     void Update()
     {
-        Debug.Log(CoreServices.InputSystem.EyeGazeProvider.IsEyeTrackingEnabledAndValid);
-        // Get the latest calibration state from the EyeGazeProvider
-        bool? calibrationStatus = CoreServices.InputSystem?.EyeGazeProvider?.IsEyeCalibrationValid;
-
-
-     
-            Vector3 hit = CoreServices.InputSystem.EyeGazeProvider.HitPosition;
-        if (lr == null)
-        {
-            lr = gameObject.AddComponent<LineRenderer>();
-            lr.positionCount = 2;
-            lr.startWidth = 0.1f;
-            lr.endWidth = 0.1f;
-            lr.startColor = Color.green;
-            lr.endColor = Color.green;
-        }
-        lr.SetPosition(0, Camera.main.transform.position);
-        lr.SetPosition(1, hit);
         if (isTracking)
         {
             SimTime += Time.deltaTime;

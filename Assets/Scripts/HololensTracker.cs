@@ -478,11 +478,13 @@ public class HololensTracker : MonoBehaviour
                                 {
                                     SetCompanionState(0);
                                     object[] parms = new object[3] { currentArea, nextNextArea, NextArea(3) };
+                                    StopCoroutine(nameof(MoveCompanion));
                                     StartCoroutine(nameof(MoveCompanion), parms);
                                 } else if (!nextArea.InBigArea())
                                 {
                                     SetCompanionState(0);
                                     object[] parms = new object[3] { currentArea, nextArea, nextNextArea };
+                                    StopCoroutine(nameof(MoveCompanion));
                                     StartCoroutine(nameof(MoveCompanion), parms);
                                 }
                             }
@@ -577,6 +579,7 @@ public class HololensTracker : MonoBehaviour
                 {
                     SetCompanionState(0);
                     object[] parms = new object[3] { currentArea, NextArea(0), NextArea(1) };
+                    StopCoroutine(nameof(MoveCompanion));
                     StartCoroutine(nameof(MoveCompanion), parms);
                 }
 
@@ -590,10 +593,6 @@ public class HololensTracker : MonoBehaviour
 
     private IEnumerator MoveCompanion(object[] parms)
     {
-        while (simManager.peanut.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Walk"))
-        {
-            yield return new WaitForSeconds(0.0005f);
-        }
         Area currentArea = (Area)parms[0];
         Area nextArea = (Area)parms[1];
         Area nextNextArea = (Area)parms[2];
@@ -613,8 +612,8 @@ public class HololensTracker : MonoBehaviour
         simManager.peanut.transform.LookAt(Converter.AreaToVector3(nextArea, simManager.peanut.transform.position.y));
         Quaternion r1 = simManager.peanut.transform.rotation;
         simManager.peanut.transform.rotation = r0;
-        float turnSpeed = 0f; // internal property
-        float turnSpeedChange = 60f; // acceleration of turning
+        float turnSpeed = 0f;
+        float turnSpeedChange = 0.1f;
         //angle we need to turn
         float angleToTurn;
         while (true)
@@ -624,13 +623,11 @@ public class HololensTracker : MonoBehaviour
             {
                 break;
             }
-            //speed is in degrees/sec = angle, to pass angle in 1 seconds. our speed can be increased only 'turnSpeedChange' degrees/sec^2, but don't increase it if needn't
-            turnSpeed = Mathf.Min(angleToTurn, turnSpeed + turnSpeedChange * Time.fixedDeltaTime);
-            //rotate
-            simManager.peanut.transform.rotation = Quaternion.Lerp(simManager.peanut.transform.rotation, r1, Mathf.Clamp01(angleToTurn > 0 ? turnSpeed * Time.fixedDeltaTime / angleToTurn : 0f));
+            turnSpeed = Mathf.Min(angleToTurn, turnSpeed + turnSpeedChange);
+            simManager.peanut.transform.rotation = Quaternion.Lerp(simManager.peanut.transform.rotation, r1, Mathf.Clamp01(angleToTurn > 0 ? turnSpeed / angleToTurn : 0f));
   
 
-            yield return new WaitForSeconds(0.0005f);
+            yield return new WaitForSeconds(0.01f);
         }
         
        
@@ -655,12 +652,10 @@ public class HololensTracker : MonoBehaviour
             {
                 break;
             }
-            //speed is in degrees/sec = angle, to pass angle in 1 seconds. our speed can be increased only 'turnSpeedChange' degrees/sec^2, but don't increase it if needn't
-            turnSpeed = Mathf.Min(angleToTurn, turnSpeed + turnSpeedChange * Time.fixedDeltaTime);
-            //rotate
-            simManager.peanut.transform.rotation = Quaternion.Lerp(simManager.peanut.transform.rotation, Quaternion.Euler(finalRot), Mathf.Clamp01(angleToTurn > 0 ? turnSpeed * Time.fixedDeltaTime / angleToTurn : 0f));
+            turnSpeed = Mathf.Min(angleToTurn, turnSpeed + turnSpeedChange);
+            simManager.peanut.transform.rotation = Quaternion.Lerp(simManager.peanut.transform.rotation, Quaternion.Euler(finalRot), Mathf.Clamp01(angleToTurn > 0 ? turnSpeed / angleToTurn : 0f));
 
-            yield return new WaitForSeconds(0.0005f);
+            yield return new WaitForSeconds(0.01f);
         }
 
         yield return null;
