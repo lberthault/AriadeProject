@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac3dd6972f3970048a4a7d1a0550ab8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - footTrailMaterial: {fileID: 2100000, guid: 52da5884146dc9f4bada2dbfa5e3a897, type: 2}
+  - timeUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

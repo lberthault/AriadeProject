@@ -1,0 +1,1430 @@
+SimulationData
+Simulation time : 20,4s
+Distance travelled : 26,92 m
+Mean speed : 1,32 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.21.31.21
+Number of areas covered : 12
+Average time in area : 1,7 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 1,43 s
+Total error distance : 0 m
+Simulation time : 16,92s
+Distance travelled : 18,8 m
+Mean speed : 1,11 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 25.24.23.33.23.24.23.33.24
+Number of areas covered : 9
+Average time in area : 1,88 s
+Number of errors : 2
+Total wrong areas : 4
+Total error time : -7,39 s
+Total error distance : 0,58 m
+Simulation time : 0s
+Distance travelled : 0 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : NaN% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 13,38s
+Distance travelled : 20,17 m
+Mean speed : 1,51 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.24.35.24
+Number of areas covered : 7
+Average time in area : 1,91 s
+Number of errors : 1
+Total wrong areas : 2
+Total error time : 3,96 s
+Total error distance : 2,14 m
+Simulation time : 0s
+Distance travelled : 0 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : NaN% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 13,28s
+Distance travelled : 13,39 m
+Mean speed : 1,01 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 2,21 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,89s
+Distance travelled : 6,24 m
+Mean speed : 1,6 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 33,35s
+Distance travelled : 53,04 m
+Mean speed : 1,59 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.22.24.33.43.42.32.22.21.31.41.42.41.31.21
+Number of areas covered : 18
+Average time in area : 1,85 s
+Number of errors : 2
+Total wrong areas : 4
+Total error time : 9,21 s
+Total error distance : 4,02 m
+Simulation time : 33,35s
+Distance travelled : 53,04 m
+Mean speed : 1,59 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.22.24.33.43.42.32.22.21.31.41.42.41.31.21
+Number of areas covered : 18
+Average time in area : 1,85 s
+Number of errors : 2
+Total wrong areas : 4
+Total error time : 9,21 s
+Total error distance : 4,02 m
+Simulation time : 17,06s
+Distance travelled : 14,24 m
+Mean speed : 0,83 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 3,41 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 30,91s
+Distance travelled : 3,27 m
+Mean speed : 0,11 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 12,37s
+Distance travelled : 0,01 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 27,13s
+Distance travelled : 21,31 m
+Mean speed : 0,79 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42
+Number of areas covered : 7
+Average time in area : 3,88 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 9,87s
+Distance travelled : 5,36 m
+Mean speed : 0,54 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 4,94 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 11,3s
+Distance travelled : 6,66 m
+Mean speed : 0,59 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 3,77 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,77s
+Distance travelled : 3,97 m
+Mean speed : 0,83 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 2,39 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 12,72s
+Distance travelled : 4,97 m
+Mean speed : 0,39 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 6,36 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 6,26s
+Distance travelled : 8,08 m
+Mean speed : 1,29 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24
+Number of areas covered : 4
+Average time in area : 1,57 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 5,38s
+Distance travelled : 7,23 m
+Mean speed : 1,34 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 1,79 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 22,45s
+Distance travelled : 3,57 m
+Mean speed : 0,16 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 11,23 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 9,07s
+Distance travelled : 6,84 m
+Mean speed : 0,75 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.16
+Number of areas covered : 3
+Average time in area : 3,02 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -5,83 s
+Total error distance : 0 m
+Simulation time : 8,62s
+Distance travelled : 3,83 m
+Mean speed : 0,44 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 4,31 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,8s
+Distance travelled : 3,88 m
+Mean speed : 1,02 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 1,9 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,04s
+Distance travelled : 3,78 m
+Mean speed : 1,24 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 3,04 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 5,05s
+Distance travelled : 3,11 m
+Mean speed : 0,62 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 5,05 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 16,34s
+Distance travelled : 25,16 m
+Mean speed : 1,54 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.21
+Number of areas covered : 10
+Average time in area : 1,63 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,68s
+Distance travelled : 3,9 m
+Mean speed : 0,84 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 2,34 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 17,76s
+Distance travelled : 23,67 m
+Mean speed : 1,33 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.12
+Number of areas covered : 10
+Average time in area : 1,78 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -14,84 s
+Total error distance : 0 m
+Simulation time : 19,62s
+Distance travelled : 18,82 m
+Mean speed : 0,96 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.52
+Number of areas covered : 8
+Average time in area : 2,45 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -11,4 s
+Total error distance : 0 m
+Simulation time : 0s
+Distance travelled : 0 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : NaN% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 3,29s
+Distance travelled : 3,62 m
+Mean speed : 1,1 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 1,65 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 14,6s
+Distance travelled : 18,88 m
+Mean speed : 1,29 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.52
+Number of areas covered : 8
+Average time in area : 1,83 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -12,25 s
+Total error distance : 0 m
+Simulation time : 8,16s
+Distance travelled : 12,17 m
+Mean speed : 1,49 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35.25
+Number of areas covered : 5
+Average time in area : 1,63 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 2,36 s
+Total error distance : 0 m
+Simulation time : 5,73s
+Distance travelled : 3,56 m
+Mean speed : 0,62 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 5,73 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,16s
+Distance travelled : 3,69 m
+Mean speed : 1,17 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 3,16 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 13,12s
+Distance travelled : 12,25 m
+Mean speed : 0,93 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 4,37 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -11,25 s
+Total error distance : 0 m
+Simulation time : 40,27s
+Distance travelled : 8,49 m
+Mean speed : 0,21 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 20,14 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 17,64s
+Distance travelled : 8,71 m
+Mean speed : 0,49 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 5,88 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 1,3s
+Distance travelled : 1,4 m
+Mean speed : 1,07 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 1,3 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 8,3s
+Distance travelled : 0,6 m
+Mean speed : 0,07 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 8,3 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 5,52s
+Distance travelled : 6,13 m
+Mean speed : 1,11 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.16
+Number of areas covered : 3
+Average time in area : 1,84 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -3,45 s
+Total error distance : 0 m
+Simulation time : 9,06s
+Distance travelled : 10,83 m
+Mean speed : 1,2 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 1,81 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,21s
+Distance travelled : 6,03 m
+Mean speed : 1,43 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 1,4 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 9,67s
+Distance travelled : 11,83 m
+Mean speed : 1,22 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 1,93 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 6,14s
+Distance travelled : 3,99 m
+Mean speed : 0,65 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 3,07 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 8,16s
+Distance travelled : 6,53 m
+Mean speed : 0,8 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 2,72 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,67s
+Distance travelled : 3 m
+Mean speed : 0,64 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 2,33 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 11,79s
+Distance travelled : 7,02 m
+Mean speed : 0,6 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 3,93 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 27,67s
+Distance travelled : 31,49 m
+Mean speed : 1,14 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.25.24.33.43.42.32.22.21.22
+Number of areas covered : 13
+Average time in area : 2,13 s
+Number of errors : 2
+Total wrong areas : 2
+Total error time : -23,27 s
+Total error distance : 0 m
+Simulation time : 11,07s
+Distance travelled : 12,81 m
+Mean speed : 1,16 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 1,85 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,58s
+Distance travelled : 5,54 m
+Mean speed : 1,21 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 1,53 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,73s
+Distance travelled : 3,21 m
+Mean speed : 0,68 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 2,37 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 20,09s
+Distance travelled : 27,31 m
+Mean speed : 1,36 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.31.32.42
+Number of areas covered : 11
+Average time in area : 1,83 s
+Number of errors : 2
+Total wrong areas : 2
+Total error time : -16,78 s
+Total error distance : 0 m
+Simulation time : 3,83s
+Distance travelled : 5,97 m
+Mean speed : 1,56 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 1,28 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 13,94s
+Distance travelled : 13,21 m
+Mean speed : 0,95 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 2,79 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 23,06s
+Distance travelled : 25,13 m
+Mean speed : 1,09 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.21
+Number of areas covered : 9
+Average time in area : 2,56 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 13,55s
+Distance travelled : 23,56 m
+Mean speed : 1,74 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.21
+Number of areas covered : 10
+Average time in area : 1,35 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 13,55s
+Distance travelled : 23,56 m
+Mean speed : 1,74 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.21
+Number of areas covered : 10
+Average time in area : 1,35 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 21,3s
+Distance travelled : 11,49 m
+Mean speed : 0,54 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 4,26 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 13,81s
+Distance travelled : 8,25 m
+Mean speed : 0,6 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 3,45 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -4,17 s
+Total error distance : 0 m
+Simulation time : 24,58s
+Distance travelled : 8,14 m
+Mean speed : 0,33 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 6,14 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -5,79 s
+Total error distance : 0 m
+Simulation time : 32,92s
+Distance travelled : 31,97 m
+Mean speed : 0,97 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.26.25.26.25.15.25.26.25.15.25.26.36
+Number of areas covered : 15
+Average time in area : 2,19 s
+Number of errors : 6
+Total wrong areas : 7
+Total error time : -11,62 s
+Total error distance : 1,92 m
+Simulation time : 42,29s
+Distance travelled : 7,75 m
+Mean speed : 0,18 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 10,57 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -4,74 s
+Total error distance : 0 m
+Simulation time : 5,21s
+Distance travelled : 7,17 m
+Mean speed : 1,38 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 1,3 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -3,45 s
+Total error distance : 0 m
+Simulation time : 4,9s
+Distance travelled : 7,38 m
+Mean speed : 1,51 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 1,22 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -3,39 s
+Total error distance : 0 m
+Simulation time : 5,86s
+Distance travelled : 7,21 m
+Mean speed : 1,23 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35
+Number of areas covered : 4
+Average time in area : 1,46 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -3,56 s
+Total error distance : 0 m
+Simulation time : 22,05s
+Distance travelled : 34,31 m
+Mean speed : 1,56 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35.25.24.33.43.42.41.42.32.22.21
+Number of areas covered : 14
+Average time in area : 1,57 s
+Number of errors : 2
+Total wrong areas : 2
+Total error time : 5,02 s
+Total error distance : 0 m
+Simulation time : 22,05s
+Distance travelled : 34,31 m
+Mean speed : 1,56 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35.25.24.33.43.42.41.42.32.22.21
+Number of areas covered : 14
+Average time in area : 1,57 s
+Number of errors : 2
+Total wrong areas : 2
+Total error time : 5,02 s
+Total error distance : 0 m
+Simulation time : 10,69s
+Distance travelled : 1,76 m
+Mean speed : 0,16 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 10,69 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 15,46s
+Distance travelled : 1,28 m
+Mean speed : 0,08 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 15,46 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 15,31s
+Distance travelled : 16,78 m
+Mean speed : 1,1 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.16.15
+Number of areas covered : 4
+Average time in area : 3,83 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 3,94 s
+Total error distance : 0 m
+Simulation time : 2,5s
+Distance travelled : 1,6 m
+Mean speed : 0,64 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 2,5 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 1,45s
+Distance travelled : 0,84 m
+Mean speed : 0,58 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 1,45 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 12,67s
+Distance travelled : 6,31 m
+Mean speed : 0,5 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.16
+Number of areas covered : 3
+Average time in area : 4,22 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -11,18 s
+Total error distance : 0 m
+Simulation time : 13,61s
+Distance travelled : 1,59 m
+Mean speed : 0,12 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 13,61 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 12,08s
+Distance travelled : 3,13 m
+Mean speed : 0,26 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 6,04 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,32s
+Distance travelled : 0,84 m
+Mean speed : 0,25 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 3,32 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 6,44s
+Distance travelled : 0,72 m
+Mean speed : 0,11 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 6,44 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 18,8s
+Distance travelled : 4,9 m
+Mean speed : 0,26 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.16
+Number of areas covered : 3
+Average time in area : 6,27 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : -16,23 s
+Total error distance : 0 m
+Simulation time : 6,71s
+Distance travelled : 0,64 m
+Mean speed : 0,1 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 6,71 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,85s
+Distance travelled : 0,77 m
+Mean speed : 0,16 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 4,85 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,86s
+Distance travelled : 0,7 m
+Mean speed : 0,14 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 4,86 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 5,38s
+Distance travelled : 0,63 m
+Mean speed : 0,12 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 5,38 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,62s
+Distance travelled : 0,64 m
+Mean speed : 0,14 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 4,62 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,8s
+Distance travelled : 0,57 m
+Mean speed : 0,15 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 3,8 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 9,14s
+Distance travelled : 0,64 m
+Mean speed : 0,07 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 9,14 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 19,99s
+Distance travelled : 0,79 m
+Mean speed : 0,04 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 19,99 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 7,35s
+Distance travelled : 0,51 m
+Mean speed : 0,07 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 7,35 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 3,52s
+Distance travelled : 0,94 m
+Mean speed : 0,27 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 3,52 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 4,75s
+Distance travelled : 4,7 m
+Mean speed : 0,99 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15
+Number of areas covered : 2
+Average time in area : 2,37 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 6,68s
+Distance travelled : 5,99 m
+Mean speed : 0,9 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 2,23 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 21,46s
+Distance travelled : 15,8 m
+Mean speed : 0,74 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 3,58 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 21,43s
+Distance travelled : 16,5 m
+Mean speed : 0,77 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 3,57 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 24,66s
+Distance travelled : 24,94 m
+Mean speed : 1,01 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.15.25.24.33.43.42.32
+Number of areas covered : 10
+Average time in area : 2,47 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 3,67 s
+Total error distance : 0 m
+Simulation time : 21,02s
+Distance travelled : 17,47 m
+Mean speed : 0,83 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42
+Number of areas covered : 7
+Average time in area : 3 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 20,65s
+Distance travelled : 17,22 m
+Mean speed : 0,83 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 3,44 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 19,43s
+Distance travelled : 17,57 m
+Mean speed : 0,9 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43
+Number of areas covered : 6
+Average time in area : 3,24 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 32,44s
+Distance travelled : 26,84 m
+Mean speed : 0,83 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.22.12.22
+Number of areas covered : 11
+Average time in area : 2,95 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 4,59 s
+Total error distance : 0 m
+Simulation time : 25,31s
+Distance travelled : 25,59 m
+Mean speed : 1,01 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.41.42.32.22
+Number of areas covered : 11
+Average time in area : 2,3 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 3,22 s
+Total error distance : 0 m
+Simulation time : 26,05s
+Distance travelled : 30,94 m
+Mean speed : 1,19 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35.25.24.33.43.42.32.22.21
+Number of areas covered : 12
+Average time in area : 2,17 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 2,94 s
+Total error distance : 0 m
+Simulation time : 26,05s
+Distance travelled : 30,94 m
+Mean speed : 1,19 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.35.25.24.33.43.42.32.22.21
+Number of areas covered : 12
+Average time in area : 2,17 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 2,94 s
+Total error distance : 0 m
+Simulation time : 0s
+Distance travelled : 0 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : NaN% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 5,16s
+Distance travelled : 4,95 m
+Mean speed : 0,96 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25
+Number of areas covered : 3
+Average time in area : 1,72 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 37,91s
+Distance travelled : 29,24 m
+Mean speed : 0,77 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.41.42.32.22.21
+Number of areas covered : 12
+Average time in area : 3,16 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 4,99 s
+Total error distance : 0 m
+Simulation time : 37,91s
+Distance travelled : 29,24 m
+Mean speed : 0,77 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.41.42.32.22.21
+Number of areas covered : 12
+Average time in area : 3,16 s
+Number of errors : 1
+Total wrong areas : 1
+Total error time : 4,99 s
+Total error distance : 0 m
+Simulation time : 0s
+Distance travelled : 0 m
+Mean speed : 0 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : NaN% left
+Walked path : 
+Number of areas covered : 0
+Simulation time : 6,93s
+Distance travelled : 0,39 m
+Mean speed : 0,06 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16
+Number of areas covered : 1
+Average time in area : 6,93 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 19,51s
+Distance travelled : 12,83 m
+Mean speed : 0,66 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 3,9 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 161,66s
+Distance travelled : 12,28 m
+Mean speed : 0,08 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33
+Number of areas covered : 5
+Average time in area : 32,33 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m
+Simulation time : 7,03s
+Distance travelled : 13,27 m
+Mean speed : 1,89 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.06.05
+Number of areas covered : 3
+Average time in area : 2,34 s
+Number of errors : 1
+Total wrong areas : 2
+Total error time : -0,75 s
+Total error distance : 2,51 m
+Simulation time : 5,79s
+Distance travelled : 7,32 m
+Mean speed : 1,27 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.26.16.15
+Number of areas covered : 4
+Average time in area : 1,45 s
+Number of errors : 2
+Total wrong areas : 2
+Total error time : -2,61 s
+Total error distance : 0 m
+Simulation time : 24,79s
+Distance travelled : 27,31 m
+Mean speed : 1,1 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32.31.41.42
+Number of areas covered : 11
+Average time in area : 2,25 s
+Number of errors : 1
+Total wrong areas : 3
+Total error time : -16,66 s
+Total error distance : 3,7 m
+Simulation time : 9,71s
+Distance travelled : 16 m
+Mean speed : 1,65 m/s
+Number of steps : 0
+Mean step frequency : -1 step/s
+Front foot : 100% left
+Walked path : 16.15.25.24.33.43.42.32
+Number of areas covered : 8
+Average time in area : 1,21 s
+Number of errors : 0
+Total wrong areas : 0
+Total error time : 0 s
+Total error distance : 0 m

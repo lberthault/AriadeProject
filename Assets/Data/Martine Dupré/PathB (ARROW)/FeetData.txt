@@ -1,0 +1,622 @@
+FeetData
+t = 0,91438 : Right Foot starts a step
+t = 0,9254079 : Right Foot ends a step (total=1)
+t = 1,081343 : Right Foot starts a step
+t = 1,118522 : Left Foot starts a step
+t = 1,142403 : Left Foot ends a step (total=3)
+t = 1,606656 : Left Foot starts a step
+t = 1,627486 : Left Foot ends a step (total=4)
+t = 2,221863 : Right Foot starts a step
+t = 2,232261 : Right Foot ends a step (total=5)
+t = 2,692143 : Right Foot starts a step
+t = 2,704666 : Right Foot ends a step (total=6)
+t = 3,135407 : Left Foot starts a step
+t = 3,150421 : Left Foot ends a step (total=7)
+t = 3,601969 : Right Foot starts a step
+t = 3,61299 : Right Foot ends a step (total=8)
+t = 3,784136 : Right Foot starts a step
+t = 3,800483 : Right Foot ends a step (total=9)
+t = 3,851795 : Right Foot starts a step
+t = 4,229939 : Left Foot starts a step
+t = 4,254514 : Left Foot ends a step (total=11)
+t = 4,864459 : Right Foot starts a step
+t = 4,874911 : Right Foot ends a step (total=12)
+t = 5,075474 : Right Foot starts a step
+t = 5,701293 : Left Foot starts a step
+t = 6,111205 : Right Foot starts a step
+t = 6,121372 : Right Foot ends a step (total=15)
+t = 6,375829 : Right Foot starts a step
+t = 6,386221 : Right Foot ends a step (total=16)
+t = 6,741162 : Right Foot starts a step
+t = 6,755356 : Right Foot ends a step (total=17)
+t = 6,767048 : Left Foot starts a step
+t = 6,779068 : Left Foot ends a step (total=18)
+t = 7,505602 : Right Foot starts a step
+t = 7,516287 : Right Foot ends a step (total=19)
+t = 7,553149 : Right Foot starts a step
+t = 7,782202 : Right Foot starts a step
+t = 7,873202 : Right Foot ends a step (total=21)
+t = 8,15217 : Left Foot starts a step
+t = 8,164146 : Left Foot ends a step (total=22)
+t = 8,787692 : Right Foot starts a step
+t = 8,808688 : Right Foot ends a step (total=23)
+t = 9,038092 : Right Foot starts a step
+t = 9,063806 : Right Foot ends a step (total=24)
+t = 9,407675 : Left Foot starts a step
+t = 9,420939 : Left Foot ends a step (total=25)
+t = 9,608408 : Left Foot starts a step
+t = 10,07808 : Right Foot starts a step
+t = 10,09424 : Right Foot ends a step (total=27)
+t = 10,24236 : Right Foot starts a step
+t = 10,72767 : Left Foot starts a step
+t = 10,73903 : Left Foot ends a step (total=29)
+t = 11,42404 : Right Foot starts a step
+t = 11,43692 : Right Foot ends a step (total=30)
+t = 11,66952 : Right Foot starts a step
+t = 11,67995 : Right Foot ends a step (total=31)
+t = 12,05848 : Left Foot starts a step
+t = 12,06993 : Left Foot ends a step (total=32)
+t = 12,23627 : Left Foot starts a step
+t = 12,71959 : Right Foot starts a step
+t = 12,73913 : Right Foot ends a step (total=34)
+t = 13,06307 : Right Foot starts a step
+t = 13,07908 : Right Foot ends a step (total=35)
+t = 1,116537 : Right Foot starts a step
+t = 1,310255 : Left Foot starts a step
+t = 2,446158 : Right Foot ends a step (total=1)
+t = 2,87962 : Right Foot starts a step
+t = 3,172385 : Left Foot ends a step (total=2)
+t = 3,815447 : Right Foot ends a step (total=3)
+t = 3,976984 : Right Foot starts a step
+t = 4,431334 : Left Foot starts a step
+t = 5,07414 : Right Foot ends a step (total=4)
+t = 5,607127 : Left Foot ends a step (total=5)
+t = 5,668637 : Left Foot starts a step
+t = 6,325232 : Right Foot starts a step
+t = 6,97914 : Left Foot ends a step (total=6)
+t = 7,719603 : Right Foot ends a step (total=7)
+t = 7,984287 : Right Foot starts a step
+t = 8,346909 : Left Foot starts a step
+t = 8,995078 : Right Foot ends a step (total=8)
+t = 9,246222 : Right Foot starts a step
+t = 9,622451 : Left Foot ends a step (total=9)
+t = 10,28495 : Right Foot ends a step (total=10)
+t = 10,91883 : Left Foot starts a step
+t = 11,60756 : Right Foot starts a step
+t = 12,24558 : Left Foot ends a step (total=11)
+t = 12,96907 : Right Foot ends a step (total=12)
+t = 13,26337 : Right Foot starts a step
+t = 13,57098 : Left Foot starts a step
+t = 14,23274 : Right Foot ends a step (total=13)
+t = 14,26648 : Right Foot starts a step
+t = 15,52187 : Right Foot ends a step (total=15)
+t = 15,87757 : Right Foot starts a step
+t = 16,75955 : Left Foot ends a step (total=15)
+t = 16,84607 : Right Foot ends a step (total=16)
+t = 17,16735 : Right Foot starts a step
+t = 17,49688 : Left Foot starts a step
+t = 18,20651 : Right Foot ends a step (total=17)
+t = 18,432 : Right Foot starts a step
+t = 18,86053 : Left Foot ends a step (total=18)
+t = 19,01736 : Left Foot starts a step
+t = 19,50587 : Right Foot ends a step (total=19)
+t = 19,74922 : Right Foot starts a step
+t = 20,17744 : Left Foot ends a step (total=20)
+t = 20,86079 : Right Foot ends a step (total=21)
+t = 21,13091 : Right Foot starts a step
+t = 21,47882 : Left Foot starts a step
+t = 22,10477 : Right Foot ends a step (total=22)
+t = 22,11532 : Right Foot starts a step
+t = 22,80104 : Left Foot ends a step (total=23)
+t = 23,48219 : Right Foot ends a step (total=24)
+t = 23,78695 : Right Foot starts a step
+t = 24,14451 : Left Foot starts a step
+t = 24,80176 : Right Foot ends a step (total=25)
+t = 25,12606 : Right Foot starts a step
+t = 25,4425 : Left Foot ends a step (total=26)
+t = 25,61193 : Left Foot starts a step
+t = 26,07648 : Right Foot ends a step (total=27)
+t = 26,67581 : Left Foot ends a step (total=28)
+t = 27,32145 : Right Foot starts a step
+t = 27,93544 : Left Foot starts a step
+t = 29,26922 : Left Foot ends a step (total=30)
+t = 30,50777 : Left Foot starts a step
+t = 1,208445 : Right Foot starts a step
+t = 1,418743 : Left Foot starts a step
+t = 2,530008 : Right Foot ends a step (total=1)
+t = 2,988036 : Right Foot starts a step
+t = 3,279763 : Left Foot ends a step (total=2)
+t = 3,436639 : Left Foot starts a step
+t = 3,909625 : Right Foot ends a step (total=3)
+t = 4,150297 : Right Foot starts a step
+t = 4,543977 : Left Foot ends a step (total=4)
+t = 5,08989 : Right Foot ends a step (total=5)
+t = 5,161634 : Right Foot starts a step
+t = 5,775002 : Left Foot starts a step
+t = 6,431978 : Right Foot ends a step (total=6)
+t = 6,679309 : Right Foot starts a step
+t = 7,082447 : Left Foot ends a step (total=7)
+t = 7,824074 : Right Foot ends a step (total=8)
+t = 7,858303 : Right Foot starts a step
+t = 8,440266 : Left Foot starts a step
+t = 9,101145 : Right Foot ends a step (total=9)
+t = 9,341898 : Right Foot starts a step
+t = 9,736876 : Left Foot ends a step (total=10)
+t = 10,38353 : Right Foot ends a step (total=11)
+t = 11,02706 : Left Foot starts a step
+t = 11,71737 : Right Foot starts a step
+t = 12,34437 : Left Foot ends a step (total=12)
+t = 13,04077 : Right Foot ends a step (total=13)
+t = 13,36824 : Right Foot starts a step
+t = 13,67062 : Left Foot starts a step
+t = 14,34968 : Right Foot ends a step (total=14)
+t = 14,73084 : Right Foot starts a step
+t = 15,63361 : Right Foot ends a step (total=16)
+t = 15,98136 : Right Foot starts a step
+t = 16,31427 : Left Foot ends a step (total=16)
+t = 16,45924 : Left Foot starts a step
+t = 16,94798 : Right Foot ends a step (total=17)
+t = 17,27455 : Right Foot starts a step
+t = 18,30428 : Right Foot ends a step (total=19)
+t = 18,53858 : Right Foot starts a step
+t = 18,97293 : Left Foot ends a step (total=19)
+t = 19,61364 : Right Foot ends a step (total=20)
+t = 19,84847 : Right Foot starts a step
+t = 20,27355 : Left Foot starts a step
+t = 21,24731 : Right Foot ends a step (total=21)
+t = 21,60115 : Left Foot ends a step (total=22)
+t = 22,09164 : Left Foot starts a step
+t = 22,20609 : Right Foot starts a step
+t = 22,65341 : Right Foot ends a step (total=24)
+t = 22,92576 : Left Foot ends a step (total=24)
+t = 23,57072 : Right Foot starts a step
+t = 24,24007 : Left Foot starts a step
+t = 24,90229 : Right Foot ends a step (total=25)
+t = 25,24375 : Right Foot starts a step
+t = 25,55051 : Left Foot ends a step (total=26)
+t = 25,76823 : Left Foot starts a step
+t = 26,17664 : Right Foot ends a step (total=27)
+t = 26,7844 : Left Foot ends a step (total=28)
+t = 27,41816 : Right Foot starts a step
+t = 28,03266 : Left Foot starts a step
+t = 28,70461 : Right Foot ends a step (total=29)
+t = 29,36893 : Left Foot ends a step (total=30)
+t = 1,217134 : Right Foot starts a step
+t = 1,238506 : Right Foot ends a step (total=1)
+t = 1,413398 : Left Foot starts a step
+t = 1,431934 : Left Foot ends a step (total=2)
+t = 1,906073 : Left Foot starts a step
+t = 1,916532 : Left Foot ends a step (total=3)
+t = 2,518343 : Right Foot starts a step
+t = 2,544922 : Right Foot ends a step (total=4)
+t = 2,980093 : Right Foot starts a step
+t = 2,991956 : Right Foot ends a step (total=5)
+t = 3,26601 : Left Foot starts a step
+t = 3,277607 : Left Foot ends a step (total=6)
+t = 3,899514 : Right Foot starts a step
+t = 3,922999 : Right Foot ends a step (total=7)
+t = 4,534465 : Left Foot starts a step
+t = 4,553039 : Left Foot ends a step (total=8)
+t = 5,170825 : Right Foot starts a step
+t = 5,187126 : Right Foot ends a step (total=9)
+t = 5,77115 : Left Foot starts a step
+t = 5,785491 : Left Foot ends a step (total=10)
+t = 6,30505 : Left Foot starts a step
+t = 6,320915 : Left Foot ends a step (total=11)
+t = 6,42244 : Right Foot starts a step
+t = 6,453235 : Right Foot ends a step (total=12)
+t = 7,074745 : Left Foot starts a step
+t = 7,091042 : Left Foot ends a step (total=13)
+t = 7,805979 : Right Foot starts a step
+t = 7,821246 : Right Foot ends a step (total=14)
+t = 8,441631 : Left Foot starts a step
+t = 8,456687 : Left Foot ends a step (total=15)
+t = 9,08041 : Right Foot starts a step
+t = 9,099042 : Right Foot ends a step (total=16)
+t = 9,708241 : Left Foot starts a step
+t = 9,718498 : Left Foot ends a step (total=17)
+t = 10,37962 : Right Foot starts a step
+t = 10,40551 : Right Foot ends a step (total=18)
+t = 11,0244 : Left Foot starts a step
+t = 11,05435 : Left Foot ends a step (total=19)
+t = 11,71866 : Right Foot starts a step
+t = 11,731 : Right Foot ends a step (total=20)
+t = 12,3339 : Left Foot starts a step
+t = 12,34802 : Left Foot ends a step (total=21)
+t = 13,0287 : Right Foot starts a step
+t = 13,04716 : Right Foot ends a step (total=22)
+t = 13,67244 : Left Foot starts a step
+t = 13,69457 : Left Foot ends a step (total=23)
+t = 14,32104 : Right Foot starts a step
+t = 14,33912 : Right Foot ends a step (total=24)
+t = 14,73099 : Right Foot starts a step
+t = 14,74109 : Right Foot ends a step (total=25)
+t = 15,61651 : Right Foot starts a step
+t = 15,6309 : Right Foot ends a step (total=26)
+t = 16,30048 : Left Foot starts a step
+t = 16,31617 : Left Foot ends a step (total=27)
+t = 16,84676 : Left Foot starts a step
+t = 16,85786 : Left Foot ends a step (total=28)
+t = 16,92602 : Right Foot starts a step
+t = 16,94132 : Right Foot ends a step (total=29)
+t = 17,61415 : Left Foot starts a step
+t = 17,62818 : Left Foot ends a step (total=30)
+t = 18,276 : Right Foot starts a step
+t = 18,29373 : Right Foot ends a step (total=31)
+t = 18,95901 : Left Foot starts a step
+t = 18,98341 : Left Foot ends a step (total=32)
+t = 19,59301 : Right Foot starts a step
+t = 19,60708 : Right Foot ends a step (total=33)
+t = 20,26217 : Left Foot starts a step
+t = 20,28685 : Left Foot ends a step (total=34)
+t = 20,95247 : Right Foot starts a step
+t = 20,96477 : Right Foot ends a step (total=35)
+t = 21,57257 : Left Foot starts a step
+t = 21,5943 : Left Foot ends a step (total=36)
+t = 22,17897 : Right Foot starts a step
+t = 22,20793 : Right Foot ends a step (total=37)
+t = 22,6697 : Right Foot starts a step
+t = 22,69246 : Right Foot ends a step (total=38)
+t = 22,89463 : Left Foot starts a step
+t = 22,90926 : Left Foot ends a step (total=39)
+t = 23,57341 : Right Foot starts a step
+t = 23,59023 : Right Foot ends a step (total=40)
+t = 24,24951 : Left Foot starts a step
+t = 24,26768 : Left Foot ends a step (total=41)
+t = 24,88018 : Right Foot starts a step
+t = 24,90364 : Right Foot ends a step (total=42)
+t = 25,34788 : Right Foot starts a step
+t = 25,5328 : Left Foot starts a step
+t = 25,54415 : Left Foot ends a step (total=44)
+t = 26,18599 : Right Foot ends a step (total=44)
+t = 26,7668 : Left Foot starts a step
+t = 26,77694 : Left Foot ends a step (total=45)
+t = 27,42944 : Right Foot starts a step
+t = 27,44012 : Right Foot ends a step (total=46)
+t = 28,02875 : Left Foot starts a step
+t = 28,04672 : Left Foot ends a step (total=47)
+t = 28,67943 : Right Foot starts a step
+t = 28,69468 : Right Foot ends a step (total=48)
+t = 29,35715 : Left Foot starts a step
+t = 29,37406 : Left Foot ends a step (total=49)
+t = 30,6056 : Left Foot starts a step
+t = 30,61999 : Left Foot ends a step (total=50)
+t = 0,8885337 : Right Foot starts a step
+t = 0,8996381 : Right Foot ends a step (total=1)
+t = 1,094338 : Left Foot starts a step
+t = 1,109233 : Left Foot ends a step (total=2)
+t = 1,815922 : Left Foot starts a step
+t = 1,843797 : Left Foot ends a step (total=3)
+t = 2,218667 : Right Foot starts a step
+t = 2,23893 : Right Foot ends a step (total=4)
+t = 2,953087 : Left Foot starts a step
+t = 2,977259 : Left Foot ends a step (total=5)
+t = 3,581547 : Right Foot starts a step
+t = 3,596878 : Right Foot ends a step (total=6)
+t = 4,208007 : Left Foot starts a step
+t = 4,219254 : Left Foot ends a step (total=7)
+t = 4,829982 : Right Foot starts a step
+t = 5,379611 : Left Foot starts a step
+t = 5,459901 : Left Foot ends a step (total=9)
+t = 5,992076 : Left Foot starts a step
+t = 6,102539 : Right Foot ends a step (total=9)
+t = 6,355138 : Right Foot starts a step
+t = 6,371633 : Right Foot ends a step (total=11)
+t = 6,759426 : Left Foot ends a step (total=11)
+t = 7,478375 : Right Foot starts a step
+t = 7,495598 : Right Foot ends a step (total=12)
+t = 8,126036 : Left Foot starts a step
+t = 8,142223 : Left Foot ends a step (total=13)
+t = 8,767558 : Right Foot starts a step
+t = 8,789907 : Right Foot ends a step (total=14)
+t = 9,390334 : Left Foot starts a step
+t = 9,406296 : Left Foot ends a step (total=15)
+t = 10,04518 : Right Foot starts a step
+t = 10,0604 : Right Foot ends a step (total=16)
+t = 10,69819 : Left Foot starts a step
+t = 11,3884 : Right Foot starts a step
+t = 11,404 : Right Foot ends a step (total=18)
+t = 12,02746 : Left Foot ends a step (total=18)
+t = 12,70376 : Right Foot starts a step
+t = 13,05373 : Right Foot ends a step (total=19)
+t = 13,35324 : Left Foot starts a step
+t = 13,36688 : Left Foot ends a step (total=20)
+t = 14,01167 : Right Foot starts a step
+t = 14,02821 : Right Foot ends a step (total=21)
+t = 15,29322 : Right Foot starts a step
+t = 15,30867 : Right Foot ends a step (total=22)
+t = 15,97012 : Left Foot starts a step
+t = 15,98571 : Left Foot ends a step (total=23)
+t = 16,52061 : Left Foot starts a step
+t = 16,54087 : Left Foot ends a step (total=24)
+t = 16,61777 : Right Foot starts a step
+t = 16,64879 : Right Foot ends a step (total=25)
+t = 17,28299 : Left Foot starts a step
+t = 17,29728 : Left Foot ends a step (total=26)
+t = 17,9635 : Right Foot starts a step
+t = 17,9789 : Right Foot ends a step (total=27)
+t = 18,64317 : Left Foot starts a step
+t = 18,66337 : Left Foot ends a step (total=28)
+t = 19,27097 : Right Foot starts a step
+t = 19,293 : Right Foot ends a step (total=29)
+t = 19,95388 : Left Foot starts a step
+t = 19,96396 : Left Foot ends a step (total=30)
+t = 20,61959 : Right Foot starts a step
+t = 20,63415 : Right Foot ends a step (total=31)
+t = 21,26931 : Left Foot starts a step
+t = 21,29725 : Left Foot ends a step (total=32)
+t = 21,87098 : Right Foot starts a step
+t = 21,88725 : Right Foot ends a step (total=33)
+t = 22,56814 : Left Foot starts a step
+t = 22,58274 : Left Foot ends a step (total=34)
+t = 23,25519 : Right Foot starts a step
+t = 23,27866 : Right Foot ends a step (total=35)
+t = 23,92775 : Left Foot starts a step
+t = 23,94128 : Left Foot ends a step (total=36)
+t = 24,56136 : Right Foot starts a step
+t = 24,57493 : Right Foot ends a step (total=37)
+t = 25,22104 : Left Foot starts a step
+t = 25,23376 : Left Foot ends a step (total=38)
+t = 25,84274 : Right Foot starts a step
+t = 25,85728 : Right Foot ends a step (total=39)
+t = 26,44784 : Left Foot starts a step
+t = 26,468 : Left Foot ends a step (total=40)
+t = 27,10142 : Right Foot starts a step
+t = 27,11178 : Right Foot ends a step (total=41)
+t = 27,71199 : Left Foot starts a step
+t = 27,72598 : Left Foot ends a step (total=42)
+t = 28,36855 : Right Foot starts a step
+t = 28,39216 : Right Foot ends a step (total=43)
+t = 29,03654 : Left Foot starts a step
+t = 29,05142 : Left Foot ends a step (total=44)
+t = 30,2861 : Left Foot starts a step
+t = 30,30901 : Left Foot ends a step (total=45)
+t = 0,7690136 : Right Foot starts a step
+t = 0,7823086 : Right Foot ends a step (total=1)
+t = 0,9693301 : Left Foot starts a step
+t = 1,023122 : Left Foot ends a step (total=2)
+t = 2,081541 : Right Foot starts a step
+t = 2,110161 : Right Foot ends a step (total=3)
+t = 2,816482 : Left Foot starts a step
+t = 2,834754 : Left Foot ends a step (total=4)
+t = 3,459013 : Right Foot starts a step
+t = 3,498976 : Right Foot ends a step (total=5)
+t = 4,079602 : Left Foot starts a step
+t = 4,096182 : Left Foot ends a step (total=6)
+t = 4,613371 : Right Foot starts a step
+t = 4,631997 : Right Foot ends a step (total=7)
+t = 5,329024 : Left Foot starts a step
+t = 5,341916 : Left Foot ends a step (total=8)
+t = 5,855195 : Left Foot starts a step
+t = 5,96562 : Right Foot starts a step
+t = 5,990263 : Right Foot ends a step (total=10)
+t = 6,644681 : Left Foot ends a step (total=10)
+t = 7,420274 : Right Foot starts a step
+t = 7,446187 : Right Foot ends a step (total=11)
+t = 7,981058 : Left Foot starts a step
+t = 8,642077 : Right Foot starts a step
+t = 8,654811 : Right Foot ends a step (total=13)
+t = 9,274448 : Left Foot ends a step (total=13)
+t = 9,429721 : Left Foot starts a step
+t = 11,27994 : Right Foot starts a step
+t = 15,17063 : Right Foot ends a step (total=15)
+t = 15,52909 : Right Foot starts a step
+t = 15,54864 : Right Foot ends a step (total=16)
+t = 16,47102 : Right Foot starts a step
+t = 16,48911 : Right Foot ends a step (total=17)
+t = 17,14673 : Left Foot ends a step (total=17)
+t = 17,82711 : Right Foot starts a step
+t = 17,84459 : Right Foot ends a step (total=18)
+t = 18,48729 : Left Foot starts a step
+t = 18,50249 : Left Foot ends a step (total=19)
+t = 19,12366 : Right Foot starts a step
+t = 19,13797 : Right Foot ends a step (total=20)
+t = 19,81173 : Left Foot starts a step
+t = 19,82211 : Left Foot ends a step (total=21)
+t = 20,48756 : Right Foot starts a step
+t = 20,50067 : Right Foot ends a step (total=22)
+t = 21,12596 : Left Foot starts a step
+t = 21,14067 : Left Foot ends a step (total=23)
+t = 21,73052 : Right Foot starts a step
+t = 21,74508 : Right Foot ends a step (total=24)
+t = 22,43414 : Left Foot starts a step
+t = 22,44854 : Left Foot ends a step (total=25)
+t = 23,11339 : Right Foot starts a step
+t = 23,135 : Right Foot ends a step (total=26)
+t = 23,78173 : Left Foot starts a step
+t = 23,80439 : Left Foot ends a step (total=27)
+t = 24,41636 : Right Foot starts a step
+t = 24,44285 : Right Foot ends a step (total=28)
+t = 25,06891 : Left Foot starts a step
+t = 25,07964 : Left Foot ends a step (total=29)
+t = 25,70085 : Right Foot starts a step
+t = 25,71589 : Right Foot ends a step (total=30)
+t = 26,301 : Left Foot starts a step
+t = 26,31804 : Left Foot ends a step (total=31)
+t = 26,95562 : Right Foot starts a step
+t = 26,96597 : Right Foot ends a step (total=32)
+t = 27,56473 : Left Foot starts a step
+t = 27,5778 : Left Foot ends a step (total=33)
+t = 28,2252 : Right Foot starts a step
+t = 28,253 : Right Foot ends a step (total=34)
+t = 28,8866 : Left Foot starts a step
+t = 28,89847 : Left Foot ends a step (total=35)
+t = 30,14491 : Left Foot starts a step
+t = 30,16294 : Left Foot ends a step (total=36)
+t = 2,330757 : Right Foot starts a step
+t = 2,536688 : Right Foot ends a step (total=1)
+t = 4,872271 : Right Foot starts a step
+t = 0,5239114 : Left Foot starts a step
+t = 0,5467878 : Left Foot ends a step (total=1)
+t = 0,7330452 : Right Foot starts a step
+t = 1,448962 : Left Foot starts a step
+t = 1,477229 : Left Foot ends a step (total=3)
+t = 2,120597 : Right Foot ends a step (total=3)
+t = 2,270541 : Right Foot starts a step
+t = 2,284552 : Right Foot ends a step (total=4)
+t = 2,723697 : Left Foot starts a step
+t = 3,370263 : Right Foot starts a step
+t = 3,383748 : Right Foot ends a step (total=6)
+t = 4,004226 : Left Foot ends a step (total=6)
+t = 4,016973 : Left Foot starts a step
+t = 4,188769 : Left Foot ends a step (total=7)
+t = 4,614032 : Right Foot starts a step
+t = 4,628986 : Right Foot ends a step (total=8)
+t = 4,716436 : Left Foot starts a step
+t = 4,73048 : Left Foot ends a step (total=9)
+t = 5,26973 : Left Foot starts a step
+t = 5,281868 : Left Foot ends a step (total=10)
+t = 6,047364 : Right Foot starts a step
+t = 6,05997 : Right Foot ends a step (total=11)
+t = 6,699389 : Left Foot starts a step
+t = 6,713999 : Left Foot ends a step (total=12)
+t = 7,277812 : Right Foot starts a step
+t = 7,291555 : Left Foot starts a step
+t = 7,291555 : Right Foot ends a step (total=13)
+t = 7,965758 : Left Foot ends a step (total=14)
+t = 8,576436 : Right Foot starts a step
+t = 8,593136 : Right Foot ends a step (total=15)
+t = 9,223771 : Left Foot starts a step
+t = 9,236184 : Left Foot ends a step (total=16)
+t = 9,897749 : Right Foot starts a step
+t = 9,910327 : Right Foot ends a step (total=17)
+t = 10,6041 : Left Foot starts a step
+t = 10,63892 : Left Foot ends a step (total=18)
+t = 11,21692 : Right Foot starts a step
+t = 11,24016 : Left Foot starts a step
+t = 11,24016 : Right Foot ends a step (total=19)
+t = 12,00291 : Left Foot ends a step (total=20)
+t = 12,08796 : Left Foot starts a step
+t = 12,1014 : Left Foot ends a step (total=21)
+t = 12,54469 : Right Foot starts a step
+t = 12,55952 : Right Foot ends a step (total=22)
+t = 13,82056 : Right Foot starts a step
+t = 13,83499 : Right Foot ends a step (total=23)
+t = 14,63631 : Left Foot starts a step
+t = 14,66007 : Left Foot ends a step (total=24)
+t = 15,13507 : Right Foot starts a step
+t = 15,9264 : Left Foot starts a step
+t = 15,94019 : Left Foot ends a step (total=26)
+t = 16,50661 : Right Foot ends a step (total=26)
+t = 17,27671 : Left Foot starts a step
+t = 17,29384 : Left Foot ends a step (total=27)
+t = 17,79669 : Right Foot starts a step
+t = 17,82111 : Right Foot ends a step (total=28)
+t = 19,12598 : Right Foot starts a step
+t = 19,15176 : Right Foot ends a step (total=29)
+t = 20,39375 : Right Foot starts a step
+t = 20,4077 : Right Foot ends a step (total=30)
+t = 21,7646 : Right Foot starts a step
+t = 21,77745 : Right Foot ends a step (total=31)
+t = 23,08313 : Right Foot starts a step
+t = 23,09792 : Right Foot ends a step (total=32)
+t = 24,36463 : Right Foot starts a step
+t = 24,38156 : Right Foot ends a step (total=33)
+t = 25,62731 : Right Foot starts a step
+t = 25,64232 : Right Foot ends a step (total=34)
+t = 26,88029 : Right Foot starts a step
+t = 26,89487 : Right Foot ends a step (total=35)
+t = 1,926641 : Left Foot starts a step
+t = 1,973369 : Left Foot ends a step (total=1)
+t = 2,470104 : Right Foot starts a step
+t = 4,571677 : Left Foot starts a step
+t = 11,73729 : Right Foot ends a step (total=2)
+t = 14,30051 : Right Foot starts a step
+t = 14,32957 : Right Foot ends a step (total=4)
+t = 15,55556 : Right Foot starts a step
+t = 6,598857 : Left Foot starts a step
+t = 7,920126 : Left Foot ends a step (total=1)
+t = 9,848988 : Right Foot starts a step
+t = 10,60543 : Left Foot starts a step
+t = 23,01209 : Right Foot ends a step (total=2)
+t = 3,185026 : Right Foot starts a step
+t = 3,806498 : Left Foot starts a step
+t = 3,849918 : Left Foot ends a step (total=2)
+t = 5,946752 : Right Foot ends a step (total=2)
+t = 7,772225 : Left Foot starts a step
+t = 7,797477 : Left Foot ends a step (total=3)
+t = 9,031481 : Left Foot starts a step
+t = 9,054331 : Left Foot ends a step (total=4)
+t = 11,90056 : Left Foot starts a step
+t = 12,35536 : Right Foot starts a step
+t = 12,38425 : Right Foot ends a step (total=6)
+t = 14,47132 : Left Foot ends a step (total=6)
+t = 15,75024 : Left Foot starts a step
+t = 15,77571 : Left Foot ends a step (total=7)
+t = 16,30553 : Right Foot starts a step
+t = 16,32704 : Right Foot ends a step (total=8)
+t = 17,07833 : Left Foot starts a step
+t = 17,10543 : Left Foot ends a step (total=9)
+t = 17,61377 : Right Foot starts a step
+t = 17,63811 : Right Foot ends a step (total=10)
+t = 20,2093 : Right Foot starts a step
+t = 20,23216 : Right Foot ends a step (total=11)
+t = 24,17421 : Right Foot starts a step
+t = 25,48685 : Right Foot ends a step (total=12)
+t = 2,38324 : Left Foot starts a step
+t = 3,022411 : Right Foot starts a step
+t = 3,044696 : Right Foot ends a step (total=2)
+t = 3,679536 : Left Foot ends a step (total=2)
+t = 4,914315 : Left Foot starts a step
+t = 6,386111 : Left Foot ends a step (total=3)
+t = 6,923403 : Right Foot starts a step
+t = 6,950834 : Right Foot ends a step (total=4)
+t = 7,847161 : Left Foot starts a step
+t = 8,883826 : Left Foot ends a step (total=5)
+t = 10,25945 : Left Foot starts a step
+t = 10,2845 : Left Foot ends a step (total=6)
+t = 11,65762 : Left Foot starts a step
+t = 11,68859 : Left Foot ends a step (total=7)
+t = 12,18198 : Right Foot starts a step
+t = 14,79608 : Right Foot ends a step (total=8)
+t = 15,57317 : Left Foot starts a step
+t = 16,97154 : Left Foot ends a step (total=9)
+t = 17,44321 : Right Foot starts a step
+t = 17,46523 : Right Foot ends a step (total=10)
+t = 18,77724 : Right Foot starts a step
+t = 1,27852 : Left Foot starts a step
+t = 1,335518 : Left Foot ends a step (total=1)
+t = 1,865158 : Right Foot starts a step
+t = 1,886596 : Right Foot ends a step (total=2)
+t = 2,535881 : Left Foot starts a step
+t = 2,5571 : Left Foot ends a step (total=3)
+t = 5,183023 : Left Foot starts a step
+t = 5,235456 : Left Foot ends a step (total=4)
+t = 6,663418 : Left Foot starts a step
+t = 6,714508 : Left Foot ends a step (total=5)
+t = 7,10684 : Right Foot starts a step
+t = 7,151986 : Right Foot ends a step (total=6)
+t = 9,734026 : Right Foot starts a step
+t = 0,5329531 : Right Foot starts a step
+t = 0,5625135 : Right Foot ends a step (total=1)
+t = 1,916049 : Right Foot starts a step
+t = 1,936349 : Right Foot ends a step (total=2)
+t = 2,540989 : Left Foot starts a step
+t = 2,570721 : Left Foot ends a step (total=3)
+t = 3,179781 : Right Foot starts a step
+t = 3,221667 : Right Foot ends a step (total=4)
+t = 4,036005 : Left Foot starts a step
+t = 4,059181 : Left Foot ends a step (total=5)
+t = 5,891528 : Right Foot starts a step
+t = 5,923477 : Right Foot ends a step (total=6)
+t = 6,515618 : Left Foot starts a step
+t = 6,54965 : Left Foot ends a step (total=7)
+t = 7,09374 : Right Foot starts a step
+t = 7,116168 : Right Foot ends a step (total=8)
+t = 7,768264 : Left Foot starts a step
+t = 7,789196 : Left Foot ends a step (total=9)
+t = 8,377823 : Right Foot starts a step
+t = 8,400033 : Right Foot ends a step (total=10)
+t = 9,713587 : Right Foot starts a step
+t = 9,733495 : Right Foot ends a step (total=11)
+t = 10,41514 : Left Foot starts a step
+t = 10,4599 : Left Foot ends a step (total=12)
+t = 11,8959 : Left Foot starts a step
+t = 11,91627 : Left Foot ends a step (total=13)
+t = 12,35629 : Right Foot starts a step
+t = 15,08797 : Left Foot starts a step
+t = 15,7606 : Left Foot ends a step (total=15)
+t = 17,63085 : Right Foot ends a step (total=15)
+t = 20,20293 : Right Foot starts a step
+t = 22,91582 : Right Foot ends a step (total=16)
+t = 23,07178 : Right Foot starts a step

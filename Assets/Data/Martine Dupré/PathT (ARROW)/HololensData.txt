@@ -1,0 +1,2653 @@
+HololensData
+t = 0 : pos = (-6.7, 1.7, 5.9) rot = (10.3, 157.8, 0.0)
+      inst_v = -1 prev_inst_a = -1
+      total_d = 0 mean_v = 0
+t = 0,2143858 : pos = (-6.7, 1.7, 5.9) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,03 prev_inst_a = -1
+      total_d = 0,01 mean_v = 0,03
+t = 0,2438043 : pos = (-6.7, 1.7, 5.7) rot = (10.3, 157.8, 0.0)
+      inst_v = 7,2 prev_inst_a = 29,44
+      total_d = 0,22 mean_v = 0,89
+t = 0,2643015 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,42 prev_inst_a = -115,88
+      total_d = 0,25 mean_v = 0,93
+t = 0,2766372 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,65 prev_inst_a = 6,85
+      total_d = 0,27 mean_v = 0,97
+t = 0,2909535 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -61,73
+      total_d = 0,27 mean_v = 0,92
+t = 0,3023944 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,31 prev_inst_a = 89,59
+      total_d = 0,29 mean_v = 0,97
+t = 0,314432 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -98,29
+      total_d = 0,29 mean_v = 0,93
+t = 0,327219 : pos = (-6.7, 1.7, 5.6) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,82 prev_inst_a = 73,32
+      total_d = 0,32 mean_v = 0,97
+t = 0,3418911 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,86 prev_inst_a = -34,81
+      total_d = 0,33 mean_v = 0,96
+t = 0,3585296 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,87 prev_inst_a = 0,32
+      total_d = 0,34 mean_v = 0,96
+t = 0,3713915 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -29,64
+      total_d = 0,34 mean_v = 0,93
+t = 0,3914054 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,46 prev_inst_a = 44,42
+      total_d = 0,37 mean_v = 0,95
+t = 0,4101289 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,06 prev_inst_a = -10,38
+      total_d = 0,39 mean_v = 0,96
+t = 0,4223817 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,51 prev_inst_a = 14,65
+      total_d = 0,41 mean_v = 0,98
+t = 0,4341188 : pos = (-6.8, 1.7, 5.5) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -63,03
+      total_d = 0,41 mean_v = 0,95
+t = 0,4458874 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,02 prev_inst_a = 85,76
+      total_d = 0,44 mean_v = 0,98
+t = 0,4587827 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,9 prev_inst_a = -45,16
+      total_d = 0,45 mean_v = 0,97
+t = 0,4707011 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -36,35
+      total_d = 0,45 mean_v = 0,95
+t = 0,4816062 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,25 prev_inst_a = 98,48
+      total_d = 0,47 mean_v = 0,98
+t = 0,4934534 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -98,78
+      total_d = 0,47 mean_v = 0,96
+t = 0,5041918 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,09 prev_inst_a = 92,59
+      total_d = 0,49 mean_v = 0,98
+t = 0,5173339 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,81 prev_inst_a = -53,81
+      total_d = 0,5 mean_v = 0,98
+t = 0,530063 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -31,16
+      total_d = 0,5 mean_v = 0,95
+t = 0,5415145 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,23 prev_inst_a = 92,11
+      total_d = 0,53 mean_v = 0,98
+t = 0,5540673 : pos = (-6.8, 1.7, 5.4) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -92,79
+      total_d = 0,53 mean_v = 0,96
+t = 0,5652785 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,11 prev_inst_a = 88,77
+      total_d = 0,55 mean_v = 0,98
+t = 0,5770316 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,94 prev_inst_a = -50,95
+      total_d = 0,56 mean_v = 0,98
+t = 0,5893281 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -39,07
+      total_d = 0,56 mean_v = 0,96
+t = 0,6010115 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,03 prev_inst_a = 84,5
+      total_d = 0,59 mean_v = 0,98
+t = 0,612596 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -87,09
+      total_d = 0,59 mean_v = 0,96
+t = 0,6235958 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,08 prev_inst_a = 92,17
+      total_d = 0,61 mean_v = 0,98
+t = 0,6380724 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,75 prev_inst_a = -52,36
+      total_d = 0,62 mean_v = 0,98
+t = 0,6535037 : pos = (-6.8, 1.7, 5.3) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -25
+      total_d = 0,62 mean_v = 0,95
+t = 0,6651027 : pos = (-6.8, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,54 prev_inst_a = 93,83
+      total_d = 0,65 mean_v = 0,98
+t = 0,6773214 : pos = (-6.8, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,93 prev_inst_a = -67,27
+      total_d = 0,66 mean_v = 0,98
+t = 0,6901518 : pos = (-6.8, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -37,29
+      total_d = 0,66 mean_v = 0,96
+t = 0,7013692 : pos = (-6.8, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,2 prev_inst_a = 91,36
+      total_d = 0,69 mean_v = 0,98
+t = 0,7221686 : pos = (-6.7, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,53 prev_inst_a = -52,05
+      total_d = 0,7 mean_v = 0,97
+t = 0,7341284 : pos = (-6.7, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -16,2
+      total_d = 0,7 mean_v = 0,95
+t = 0,7451623 : pos = (-6.7, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,92 prev_inst_a = 127,04
+      total_d = 0,73 mean_v = 0,98
+t = 0,7576188 : pos = (-6.7, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,87 prev_inst_a = -87,25
+      total_d = 0,74 mean_v = 0,98
+t = 0,7707183 : pos = (-6.7, 1.7, 5.2) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -34,1
+      total_d = 0,74 mean_v = 0,96
+t = 0,7815649 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,32 prev_inst_a = 96,81
+      total_d = 0,77 mean_v = 0,98
+t = 0,7940183 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -99,49
+      total_d = 0,77 mean_v = 0,97
+t = 0,8082489 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,61 prev_inst_a = 60,37
+      total_d = 0,79 mean_v = 0,98
+t = 0,8220295 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,02 prev_inst_a = -21,24
+      total_d = 0,8 mean_v = 0,98
+t = 0,8340052 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -39,45
+      total_d = 0,8 mean_v = 0,96
+t = 0,8455383 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,2 prev_inst_a = 93,46
+      total_d = 0,83 mean_v = 0,98
+t = 0,8577096 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,93 prev_inst_a = -53,36
+      total_d = 0,84 mean_v = 0,98
+t = 0,8696753 : pos = (-6.7, 1.7, 5.1) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -38,62
+      total_d = 0,84 mean_v = 0,97
+t = 0,8813692 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,03 prev_inst_a = 85,83
+      total_d = 0,86 mean_v = 0,98
+t = 0,8937536 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -84,34
+      total_d = 0,86 mean_v = 0,97
+t = 0,90481 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,14 prev_inst_a = 91,41
+      total_d = 0,89 mean_v = 0,98
+t = 0,9184464 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0,8 prev_inst_a = -54,47
+      total_d = 0,9 mean_v = 0,98
+t = 0,9316471 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -29,72
+      total_d = 0,9 mean_v = 0,96
+t = 0,9434224 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 2,24 prev_inst_a = 89,78
+      total_d = 0,93 mean_v = 0,98
+t = 0,9554067 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -94,38
+      total_d = 0,93 mean_v = 0,97
+t = 0,9687043 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 1,76 prev_inst_a = 69,54
+      total_d = 0,95 mean_v = 0,98
+t = 0,981926 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = -66,29
+      total_d = 0,95 mean_v = 0,97
+t = 0,9942719 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,95
+t = 1,007441 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,94
+t = 1,019124 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,93
+t = 1,032124 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,92
+t = 1,043501 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,91
+t = 1,056125 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,9
+t = 1,06775 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,89
+t = 1,080521 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,88
+t = 1,092179 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,87
+t = 1,10392 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,86
+t = 1,115608 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,85
+t = 1,126992 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,84
+t = 1,138745 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 157.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,83
+t = 1,155083 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 156.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,82
+t = 1,172056 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 154.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,81
+t = 1,185835 : pos = (-6.7, 1.7, 5.0) rot = (10.3, 152.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,8
+t = 1,202321 : pos = (-6.7, 1.7, 5.0) rot = (10.4, 149.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,79
+t = 1,218171 : pos = (-6.7, 1.7, 5.0) rot = (10.5, 148.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,78
+t = 1,23279 : pos = (-6.7, 1.7, 5.0) rot = (10.6, 146.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,77
+t = 1,245202 : pos = (-6.7, 1.7, 5.0) rot = (10.7, 143.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,76
+t = 1,258674 : pos = (-6.7, 1.7, 5.0) rot = (10.9, 141.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,75
+t = 1,271633 : pos = (-6.7, 1.7, 5.0) rot = (11.2, 138.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,75
+t = 1,290733 : pos = (-6.7, 1.7, 5.0) rot = (11.5, 134.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,74
+t = 1,3038 : pos = (-6.7, 1.7, 5.0) rot = (11.9, 131.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,73
+t = 1,316439 : pos = (-6.7, 1.7, 5.0) rot = (12.3, 128.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,72
+t = 1,332165 : pos = (-6.7, 1.7, 5.0) rot = (12.7, 125.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,71
+t = 1,351448 : pos = (-6.7, 1.7, 5.0) rot = (13.4, 121.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,7
+t = 1,370902 : pos = (-6.7, 1.7, 5.0) rot = (13.9, 118.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,69
+t = 1,397215 : pos = (-6.7, 1.7, 5.0) rot = (14.6, 115.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,68
+t = 1,418017 : pos = (-6.7, 1.7, 5.0) rot = (15.1, 114.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,67
+t = 1,44299 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,66
+t = 1,45444 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,65
+t = 1,466202 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,65
+t = 1,477613 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,64
+t = 1,49024 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,64
+t = 1,501382 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,63
+t = 1,512247 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,63
+t = 1,522857 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,62
+t = 1,534191 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,62
+t = 1,545009 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,61
+t = 1,556292 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,61
+t = 1,566417 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,61
+t = 1,577633 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,6
+t = 1,589102 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,6
+t = 1,599766 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,59
+t = 1,612373 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,59
+t = 1,62242 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,58
+t = 1,632946 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,58
+t = 1,645053 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,58
+t = 1,656312 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,57
+t = 1,667376 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,57
+t = 1,678124 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,57
+t = 1,689227 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,56
+t = 1,700246 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,56
+t = 1,712624 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,55
+t = 1,724305 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,55
+t = 1,735213 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,55
+t = 1,745832 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,54
+t = 1,757528 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 113.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,54
+t = 1,768628 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 111.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,54
+t = 1,779882 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 108.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,53
+t = 1,795316 : pos = (-6.7, 1.7, 5.0) rot = (15.5, 106.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,53
+t = 1,810109 : pos = (-6.7, 1.7, 5.0) rot = (15.6, 103.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,52
+t = 1,825823 : pos = (-6.7, 1.7, 5.0) rot = (15.7, 101.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,52
+t = 1,842574 : pos = (-6.7, 1.7, 5.0) rot = (15.9, 98.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,51
+t = 1,863485 : pos = (-6.7, 1.7, 5.0) rot = (16.0, 96.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,51
+t = 1,887097 : pos = (-6.7, 1.7, 5.0) rot = (16.1, 95.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,5
+t = 1,901339 : pos = (-6.7, 1.7, 5.0) rot = (16.2, 95.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,5
+t = 1,915013 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,5
+t = 1,925905 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,49
+t = 1,936871 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,49
+t = 1,948315 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,49
+t = 1,958504 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,48
+t = 1,970209 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,48
+t = 1,981717 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,48
+t = 1,993507 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,48
+t = 2,007626 : pos = (-6.7, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 0,95 mean_v = 0,47
+t = 2,022315 : pos = (-6.6, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,92 prev_inst_a = 32,02
+      total_d = 0,96 mean_v = 0,48
+t = 2,034717 : pos = (-6.6, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -34,05
+      total_d = 0,96 mean_v = 0,47
+t = 2,055569 : pos = (-6.6, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,25 prev_inst_a = 37,5
+      total_d = 0,99 mean_v = 0,48
+t = 2,074705 : pos = (-6.6, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,05 prev_inst_a = -5,03
+      total_d = 1,01 mean_v = 0,49
+t = 2,0934 : pos = (-6.6, 1.7, 5.0) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,97 prev_inst_a = 24,3
+      total_d = 1,05 mean_v = 0,5
+t = 2,10795 : pos = (-6.5, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,47 prev_inst_a = 15,08
+      total_d = 1,08 mean_v = 0,51
+t = 2,121222 : pos = (-6.5, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,1 prev_inst_a = -13
+      total_d = 1,11 mean_v = 0,52
+t = 2,133009 : pos = (-6.5, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -83,99
+      total_d = 1,11 mean_v = 0,52
+t = 2,144947 : pos = (-6.4, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,03 prev_inst_a = 169,84
+      total_d = 1,16 mean_v = 0,54
+t = 2,156992 : pos = (-6.4, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,9 prev_inst_a = -88,68
+      total_d = 1,18 mean_v = 0,55
+t = 2,169484 : pos = (-6.4, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -77,53
+      total_d = 1,18 mean_v = 0,54
+t = 2,18068 : pos = (-6.4, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,21 prev_inst_a = 177,62
+      total_d = 1,23 mean_v = 0,56
+t = 2,192693 : pos = (-6.4, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -181,28
+      total_d = 1,23 mean_v = 0,56
+t = 2,204584 : pos = (-6.3, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 3,75 prev_inst_a = 156,75
+      total_d = 1,27 mean_v = 0,58
+t = 2,217193 : pos = (-6.3, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,81 prev_inst_a = -79,06
+      total_d = 1,29 mean_v = 0,58
+t = 2,230411 : pos = (-6.3, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -70,09
+      total_d = 1,29 mean_v = 0,58
+t = 2,241594 : pos = (-6.3, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,43 prev_inst_a = 181,7
+      total_d = 1,34 mean_v = 0,6
+t = 2,253748 : pos = (-6.3, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -189,99
+      total_d = 1,34 mean_v = 0,6
+t = 2,265571 : pos = (-6.2, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 3,79 prev_inst_a = 158,03
+      total_d = 1,39 mean_v = 0,61
+t = 2,277124 : pos = (-6.2, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,96 prev_inst_a = -78,06
+      total_d = 1,41 mean_v = 0,62
+t = 2,288978 : pos = (-6.2, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -83,92
+      total_d = 1,41 mean_v = 0,62
+t = 2,300653 : pos = (-6.1, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 3,85 prev_inst_a = 163,56
+      total_d = 1,46 mean_v = 0,63
+t = 2,312907 : pos = (-6.1, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -160,83
+      total_d = 1,46 mean_v = 0,63
+t = 2,323809 : pos = (-6.1, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,21 prev_inst_a = 181,96
+      total_d = 1,5 mean_v = 0,65
+t = 2,336469 : pos = (-6.1, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,65 prev_inst_a = -108,66
+      total_d = 1,52 mean_v = 0,65
+t = 2,348626 : pos = (-6.1, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -66,61
+      total_d = 1,52 mean_v = 0,65
+t = 2,36025 : pos = (-6.0, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,1 prev_inst_a = 172,34
+      total_d = 1,57 mean_v = 0,67
+t = 2,372153 : pos = (-6.0, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -174,21
+      total_d = 1,57 mean_v = 0,66
+t = 2,383349 : pos = (-6.0, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 4,03 prev_inst_a = 174,62
+      total_d = 1,62 mean_v = 0,68
+t = 2,395184 : pos = (-6.0, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -175,13
+      total_d = 1,62 mean_v = 0,67
+t = 2,407464 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 3,6 prev_inst_a = 149,3
+      total_d = 1,66 mean_v = 0,69
+t = 2,421816 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,64 prev_inst_a = -73,51
+      total_d = 1,68 mean_v = 0,7
+t = 2,445568 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,58 prev_inst_a = -27,88
+      total_d = 1,7 mean_v = 0,69
+t = 2,463455 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,27 prev_inst_a = 16,68
+      total_d = 1,72 mean_v = 0,7
+t = 2,475916 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -42
+      total_d = 1,72 mean_v = 0,69
+t = 2,486804 : pos = (-5.9, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,68 prev_inst_a = 114,58
+      total_d = 1,75 mean_v = 0,7
+t = 2,4986 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,89 prev_inst_a = -78,88
+      total_d = 1,76 mean_v = 0,7
+t = 2,512264 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -34,79
+      total_d = 1,76 mean_v = 0,7
+t = 2,523493 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,18 prev_inst_a = 87,43
+      total_d = 1,78 mean_v = 0,71
+t = 2,536111 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -91,26
+      total_d = 1,78 mean_v = 0,7
+t = 2,547188 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,07 prev_inst_a = 87,2
+      total_d = 1,81 mean_v = 0,71
+t = 2,559995 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,83 prev_inst_a = -51,76
+      total_d = 1,82 mean_v = 0,71
+t = 2,572626 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -32,63
+      total_d = 1,82 mean_v = 0,71
+t = 2,583971 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,15 prev_inst_a = 89,76
+      total_d = 1,84 mean_v = 0,71
+t = 2,596914 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,84 prev_inst_a = -53,96
+      total_d = 1,85 mean_v = 0,71
+t = 2,60902 : pos = (-5.8, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -33,59
+      total_d = 1,85 mean_v = 0,71
+t = 2,619954 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,2 prev_inst_a = 95,44
+      total_d = 1,88 mean_v = 0,72
+t = 2,632608 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -93,22
+      total_d = 1,88 mean_v = 0,71
+t = 2,644285 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,94 prev_inst_a = 79,69
+      total_d = 1,9 mean_v = 0,72
+t = 2,656542 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,91 prev_inst_a = -42,81
+      total_d = 1,91 mean_v = 0,72
+t = 2,669478 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -36,29
+      total_d = 1,91 mean_v = 0,72
+t = 2,681905 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 1,95 prev_inst_a = 76,72
+      total_d = 1,94 mean_v = 0,72
+t = 2,703333 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,56 prev_inst_a = -41,04
+      total_d = 1,95 mean_v = 0,72
+t = 2,715769 : pos = (-5.7, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -16,44
+      total_d = 1,95 mean_v = 0,72
+t = 2,728076 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,64 prev_inst_a = 106,74
+      total_d = 1,98 mean_v = 0,73
+t = 2,741161 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0,9 prev_inst_a = -68,46
+      total_d = 1,99 mean_v = 0,73
+t = 2,752972 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -36,26
+      total_d = 1,99 mean_v = 0,72
+t = 2,764686 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 2,04 prev_inst_a = 86,71
+      total_d = 2,02 mean_v = 0,73
+t = 2,776998 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = -84,9
+      total_d = 2,02 mean_v = 0,73
+t = 2,78995 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,72
+t = 2,801027 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,72
+t = 2,812214 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,72
+t = 2,823427 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,71
+t = 2,835351 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,71
+t = 2,847389 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,71
+t = 2,859021 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,7
+t = 2,87051 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,7
+t = 2,881585 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,7
+t = 2,892378 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,7
+t = 2,903007 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,69
+t = 2,915355 : pos = (-5.6, 1.7, 4.9) rot = (16.3, 95.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,69
+t = 2,926916 : pos = (-5.6, 1.7, 4.9) rot = (17.9, 95.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,69
+t = 2,948298 : pos = (-5.6, 1.7, 4.9) rot = (20.9, 96.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,68
+t = 2,974094 : pos = (-5.6, 1.7, 4.9) rot = (25.2, 98.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,68
+t = 2,994262 : pos = (-5.6, 1.7, 4.9) rot = (27.7, 99.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,67
+t = 3,016837 : pos = (-5.6, 1.7, 4.9) rot = (29.6, 99.7, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,67
+t = 3,03738 : pos = (-5.6, 1.7, 4.9) rot = (30.7, 100.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,66
+t = 3,050111 : pos = (-5.6, 1.7, 4.9) rot = (31.2, 100.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,66
+t = 3,066102 : pos = (-5.6, 1.7, 4.9) rot = (31.9, 101.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,66
+t = 3,085119 : pos = (-5.6, 1.7, 4.9) rot = (32.6, 101.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,65
+t = 3,098724 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,65
+t = 3,110726 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,65
+t = 3,122289 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,65
+t = 3,133338 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,64
+t = 3,144013 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,64
+t = 3,15533 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,64
+t = 3,166375 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,64
+t = 3,17739 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,63
+t = 3,189576 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,63
+t = 3,201354 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,63
+t = 3,212134 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,63
+t = 3,222645 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,63
+t = 3,234721 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,62
+t = 3,245389 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,62
+t = 3,256767 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,62
+t = 3,26877 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,62
+t = 3,279831 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,61
+t = 3,290961 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,61
+t = 3,301497 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,61
+t = 3,31284 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,61
+t = 3,324293 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,61
+t = 3,33665 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,6
+t = 3,348694 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,6
+t = 3,368593 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,6
+t = 3,380015 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,6
+t = 3,3923 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,59
+t = 3,403151 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,59
+t = 3,414361 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,59
+t = 3,425575 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,59
+t = 3,437867 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,59
+t = 3,448771 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,460205 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,471837 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,482699 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,493712 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,505022 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,58
+t = 3,517416 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,57
+t = 3,529164 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,57
+t = 3,542307 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,57
+t = 3,553856 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,57
+t = 3,564477 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,57
+t = 3,575267 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,586198 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,598217 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,610015 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,620468 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,631531 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,56
+t = 3,642597 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,653405 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,664791 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,675961 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,687033 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,69765 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,55
+t = 3,709628 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,720542 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,731446 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,742951 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,753774 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,763943 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,54
+t = 3,775534 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,786573 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,798053 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,809015 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,820737 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,832301 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,53
+t = 3,843249 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,854184 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,864951 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,876129 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,887239 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,898241 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,910274 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,52
+t = 3,921672 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 3,932922 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 3,952311 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 3,96506 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 3,97719 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 3,988601 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,51
+t = 4,000099 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,012228 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,023948 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,036236 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,046574 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,057968 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,069083 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,5
+t = 4,080383 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,091951 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,104373 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,115523 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,126118 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,138575 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,14957 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,49
+t = 4,159925 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,171299 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,182292 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,193781 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,204656 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,216091 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,22684 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,238074 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,48
+t = 4,250198 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,261436 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,272535 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,283419 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,295705 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,306747 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,317701 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,330562 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,47
+t = 4,342031 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,353398 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,36379 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,375686 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,386055 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,397184 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,408695 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,419737 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,46
+t = 4,430548 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,44136 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,453242 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,464123 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,474938 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,485625 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,497449 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,508945 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,519832 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,45
+t = 4,531498 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,551791 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,562827 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,574201 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,584668 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,597037 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,609568 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,619766 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,631717 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,44
+t = 4,642681 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,65367 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,664433 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,676391 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,688809 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,702282 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,713447 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,723999 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,736478 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,43
+t = 4,750965 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 2,02 mean_v = 0,42
+t = 4,765965 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,81 prev_inst_a = 27,5
+      total_d = 2,03 mean_v = 0,43
+t = 4,778043 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,04 prev_inst_a = 8,56
+      total_d = 2,04 mean_v = 0,43
+t = 4,789939 : pos = (-5.6, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -43,49
+      total_d = 2,04 mean_v = 0,43
+t = 4,80192 : pos = (-5.5, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,68 prev_inst_a = 70,37
+      total_d = 2,06 mean_v = 0,43
+t = 4,814192 : pos = (-5.5, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -69,28
+      total_d = 2,06 mean_v = 0,43
+t = 4,825257 : pos = (-5.5, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,84 prev_inst_a = 78,85
+      total_d = 2,08 mean_v = 0,43
+t = 4,837628 : pos = (-5.5, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,75 prev_inst_a = -46,48
+      total_d = 2,09 mean_v = 0,43
+t = 4,849793 : pos = (-5.5, 1.7, 4.9) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -30,61
+      total_d = 2,09 mean_v = 0,43
+t = 4,862769 : pos = (-5.5, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,59 prev_inst_a = 63,15
+      total_d = 2,11 mean_v = 0,43
+t = 4,874712 : pos = (-5.5, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -63,71
+      total_d = 2,11 mean_v = 0,43
+t = 4,885896 : pos = (-5.5, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,87 prev_inst_a = 80,89
+      total_d = 2,13 mean_v = 0,44
+t = 4,898749 : pos = (-5.5, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,73 prev_inst_a = -47,44
+      total_d = 2,14 mean_v = 0,44
+t = 4,911632 : pos = (-5.5, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -28,39
+      total_d = 2,14 mean_v = 0,44
+t = 4,923598 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,81 prev_inst_a = 72,67
+      total_d = 2,16 mean_v = 0,44
+t = 4,93668 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,77 prev_inst_a = -41,44
+      total_d = 2,17 mean_v = 0,44
+t = 4,948719 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -30,57
+      total_d = 2,17 mean_v = 0,44
+t = 4,961016 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,72 prev_inst_a = 70,48
+      total_d = 2,19 mean_v = 0,44
+t = 4,973642 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -68,82
+      total_d = 2,19 mean_v = 0,44
+t = 4,984895 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,86 prev_inst_a = 77,88
+      total_d = 2,21 mean_v = 0,44
+t = 4,997271 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,76 prev_inst_a = -46,39
+      total_d = 2,22 mean_v = 0,45
+t = 5,009975 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -30,44
+      total_d = 2,22 mean_v = 0,44
+t = 5,021739 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,79 prev_inst_a = 73,17
+      total_d = 2,25 mean_v = 0,45
+t = 5,034069 : pos = (-5.4, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -74,3
+      total_d = 2,25 mean_v = 0,45
+t = 5,046062 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,69 prev_inst_a = 69,35
+      total_d = 2,27 mean_v = 0,45
+t = 5,058214 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,83 prev_inst_a = -35,55
+      total_d = 2,28 mean_v = 0,45
+t = 5,0711 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -33,09
+      total_d = 2,28 mean_v = 0,45
+t = 5,083975 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,63 prev_inst_a = 63,39
+      total_d = 2,3 mean_v = 0,45
+t = 5,096789 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,84 prev_inst_a = -30,73
+      total_d = 2,31 mean_v = 0,45
+t = 5,108844 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -33,92
+      total_d = 2,31 mean_v = 0,45
+t = 5,119928 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,88 prev_inst_a = 81,41
+      total_d = 2,33 mean_v = 0,45
+t = 5,132692 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -78,99
+      total_d = 2,33 mean_v = 0,45
+t = 5,144501 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,7 prev_inst_a = 69
+      total_d = 2,35 mean_v = 0,46
+t = 5,156309 : pos = (-5.3, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -71,8
+      total_d = 2,35 mean_v = 0,46
+t = 5,177769 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,92 prev_inst_a = 27,77
+      total_d = 2,37 mean_v = 0,46
+t = 5,190491 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -27,03
+      total_d = 2,37 mean_v = 0,46
+t = 5,208734 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,57 prev_inst_a = 50,81
+      total_d = 2,4 mean_v = 0,46
+t = 5,221129 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,24 prev_inst_a = -11,02
+      total_d = 2,41 mean_v = 0,46
+t = 5,233325 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -50,25
+      total_d = 2,41 mean_v = 0,46
+t = 5,245705 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,67 prev_inst_a = 67,87
+      total_d = 2,43 mean_v = 0,46
+t = 5,265166 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,53 prev_inst_a = -35,61
+      total_d = 2,44 mean_v = 0,46
+t = 5,277761 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,3 prev_inst_a = 23,81
+      total_d = 2,46 mean_v = 0,47
+t = 5,295439 : pos = (-5.2, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -42,85
+      total_d = 2,46 mean_v = 0,46
+t = 5,307382 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,13 prev_inst_a = 71,85
+      total_d = 2,48 mean_v = 0,47
+t = 5,320517 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,76 prev_inst_a = -54,43
+      total_d = 2,49 mean_v = 0,47
+t = 5,33617 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -26,52
+      total_d = 2,49 mean_v = 0,47
+t = 5,347316 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,17 prev_inst_a = 80,92
+      total_d = 2,52 mean_v = 0,47
+t = 5,362866 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,6 prev_inst_a = -58,69
+      total_d = 2,53 mean_v = 0,47
+t = 5,375279 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -21,52
+      total_d = 2,53 mean_v = 0,47
+t = 5,392278 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,38 prev_inst_a = 46,96
+      total_d = 2,55 mean_v = 0,47
+t = 5,40492 : pos = (-5.1, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,13 prev_inst_a = -8,51
+      total_d = 2,57 mean_v = 0,47
+t = 5,423834 : pos = (-5.0, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,56 prev_inst_a = -17,99
+      total_d = 2,58 mean_v = 0,48
+t = 5,437052 : pos = (-5.0, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,2 prev_inst_a = 19,93
+      total_d = 2,59 mean_v = 0,48
+t = 5,457549 : pos = (-5.0, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,54 prev_inst_a = -19,58
+      total_d = 2,6 mean_v = 0,48
+t = 5,469855 : pos = (-5.0, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -16,51
+      total_d = 2,6 mean_v = 0,48
+t = 5,487176 : pos = (-5.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,59 prev_inst_a = 53,67
+      total_d = 2,63 mean_v = 0,48
+t = 5,500073 : pos = (-5.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,13 prev_inst_a = -15,3
+      total_d = 2,65 mean_v = 0,48
+t = 5,517883 : pos = (-5.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,61 prev_inst_a = -16,92
+      total_d = 2,66 mean_v = 0,48
+t = 5,531283 : pos = (-5.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -19,48
+      total_d = 2,66 mean_v = 0,48
+t = 5,544199 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,03 prev_inst_a = 77,1
+      total_d = 2,68 mean_v = 0,48
+t = 5,562293 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,6 prev_inst_a = -46,1
+      total_d = 2,69 mean_v = 0,48
+t = 5,581205 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,8 prev_inst_a = 5,51
+      total_d = 2,71 mean_v = 0,49
+t = 5,594088 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -25,26
+      total_d = 2,71 mean_v = 0,48
+t = 5,611172 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,56 prev_inst_a = 52,15
+      total_d = 2,74 mean_v = 0,49
+t = 5,629888 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,77 prev_inst_a = -22,23
+      total_d = 2,75 mean_v = 0,49
+t = 5,645634 : pos = (-4.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1 prev_inst_a = 6,78
+      total_d = 2,77 mean_v = 0,49
+t = 5,657578 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,11 prev_inst_a = 4,04
+      total_d = 2,78 mean_v = 0,49
+t = 5,670684 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -44,4
+      total_d = 2,78 mean_v = 0,49
+t = 5,681749 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,92 prev_inst_a = 79,33
+      total_d = 2,8 mean_v = 0,49
+t = 5,693911 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -82,55
+      total_d = 2,8 mean_v = 0,49
+t = 5,705342 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,73 prev_inst_a = 73,41
+      total_d = 2,82 mean_v = 0,49
+t = 5,718651 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,74 prev_inst_a = -40,25
+      total_d = 2,83 mean_v = 0,49
+t = 5,730533 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,22
+      total_d = 2,83 mean_v = 0,49
+t = 5,742429 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,83 prev_inst_a = 76,8
+      total_d = 2,85 mean_v = 0,5
+t = 5,754802 : pos = (-4.8, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -75,25
+      total_d = 2,85 mean_v = 0,5
+t = 5,767019 : pos = (-4.7, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,73 prev_inst_a = 70,29
+      total_d = 2,87 mean_v = 0,5
+t = 5,783698 : pos = (-4.7, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,64 prev_inst_a = -37,61
+      total_d = 2,88 mean_v = 0,5
+t = 5,801369 : pos = (-4.7, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,82 prev_inst_a = 5,24
+      total_d = 2,9 mean_v = 0,5
+t = 5,814294 : pos = (-4.7, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -26,86
+      total_d = 2,9 mean_v = 0,5
+t = 5,825912 : pos = (-4.7, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,27 prev_inst_a = 92,64
+      total_d = 2,92 mean_v = 0,5
+t = 5,837914 : pos = (-4.7, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,83 prev_inst_a = -61,1
+      total_d = 2,93 mean_v = 0,5
+t = 5,850318 : pos = (-4.7, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -34,02
+      total_d = 2,93 mean_v = 0,5
+t = 5,863091 : pos = (-4.7, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,63 prev_inst_a = 64,72
+      total_d = 2,96 mean_v = 0,5
+t = 5,88473 : pos = (-4.7, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,5 prev_inst_a = -32,8
+      total_d = 2,97 mean_v = 0,5
+t = 5,905203 : pos = (-4.6, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,89 prev_inst_a = 9,3
+      total_d = 2,98 mean_v = 0,51
+t = 5,925381 : pos = (-4.6, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,85 prev_inst_a = -0,95
+      total_d = 3 mean_v = 0,51
+t = 5,93738 : pos = (-4.6, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,41 prev_inst_a = 17,36
+      total_d = 3,02 mean_v = 0,51
+t = 5,949408 : pos = (-4.6, 1.7, 4.8) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -58,79
+      total_d = 3,02 mean_v = 0,51
+t = 5,961535 : pos = (-4.6, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,66 prev_inst_a = 68,87
+      total_d = 3,04 mean_v = 0,51
+t = 5,973543 : pos = (-4.6, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -68,92
+      total_d = 3,04 mean_v = 0,51
+t = 5,985422 : pos = (-4.6, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,71 prev_inst_a = 71,42
+      total_d = 3,06 mean_v = 0,51
+t = 5,997405 : pos = (-4.6, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,83 prev_inst_a = -36,61
+      total_d = 3,07 mean_v = 0,51
+t = 6,009391 : pos = (-4.6, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -34,73
+      total_d = 3,07 mean_v = 0,51
+t = 6,02188 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,61 prev_inst_a = 65,84
+      total_d = 3,09 mean_v = 0,51
+t = 6,034076 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -65,28
+      total_d = 3,09 mean_v = 0,51
+t = 6,045644 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,79 prev_inst_a = 75,4
+      total_d = 3,11 mean_v = 0,51
+t = 6,058517 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,75 prev_inst_a = -42,44
+      total_d = 3,12 mean_v = 0,51
+t = 6,071054 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,69
+      total_d = 3,12 mean_v = 0,51
+t = 6,083143 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,76 prev_inst_a = 71,67
+      total_d = 3,14 mean_v = 0,52
+t = 6,095101 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -73,4
+      total_d = 3,14 mean_v = 0,52
+t = 6,106447 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,78 prev_inst_a = 76,36
+      total_d = 3,16 mean_v = 0,52
+t = 6,118553 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,79 prev_inst_a = -42,33
+      total_d = 3,17 mean_v = 0,52
+t = 6,133243 : pos = (-4.5, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,37
+      total_d = 3,17 mean_v = 0,52
+t = 6,14506 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,9 prev_inst_a = 71,83
+      total_d = 3,19 mean_v = 0,52
+t = 6,16165 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,6 prev_inst_a = -45,97
+      total_d = 3,2 mean_v = 0,52
+t = 6,176735 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,92 prev_inst_a = 10,27
+      total_d = 3,22 mean_v = 0,52
+t = 6,193179 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,29
+      total_d = 3,22 mean_v = 0,52
+t = 6,204556 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,33 prev_inst_a = 83,64
+      total_d = 3,24 mean_v = 0,52
+t = 6,216428 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,8 prev_inst_a = -65,48
+      total_d = 3,25 mean_v = 0,52
+t = 6,228802 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -33,18
+      total_d = 3,25 mean_v = 0,52
+t = 6,240549 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,73 prev_inst_a = 71,85
+      total_d = 3,27 mean_v = 0,52
+t = 6,252514 : pos = (-4.4, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -73,09
+      total_d = 3,27 mean_v = 0,52
+t = 6,266006 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,48 prev_inst_a = 57,96
+      total_d = 3,29 mean_v = 0,53
+t = 6,278362 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,92 prev_inst_a = -21,62
+      total_d = 3,3 mean_v = 0,53
+t = 6,292322 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -34,84
+      total_d = 3,3 mean_v = 0,53
+t = 6,304048 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,88 prev_inst_a = 73,36
+      total_d = 3,33 mean_v = 0,53
+t = 6,320296 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,61 prev_inst_a = -45,7
+      total_d = 3,34 mean_v = 0,53
+t = 6,332956 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -20,96
+      total_d = 3,34 mean_v = 0,53
+t = 6,344743 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,06 prev_inst_a = 84,24
+      total_d = 3,36 mean_v = 0,53
+t = 6,357192 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,79 prev_inst_a = -52,17
+      total_d = 3,37 mean_v = 0,53
+t = 6,37035 : pos = (-4.3, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -31,04
+      total_d = 3,37 mean_v = 0,53
+t = 6,382309 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,8 prev_inst_a = 71,57
+      total_d = 3,39 mean_v = 0,53
+t = 6,394211 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -75,34
+      total_d = 3,39 mean_v = 0,53
+t = 6,405862 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,72 prev_inst_a = 73,01
+      total_d = 3,41 mean_v = 0,53
+t = 6,418612 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,77 prev_inst_a = -39,03
+      total_d = 3,42 mean_v = 0,53
+t = 6,431325 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -30,13
+      total_d = 3,42 mean_v = 0,53
+t = 6,442838 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,86 prev_inst_a = 76,65
+      total_d = 3,44 mean_v = 0,53
+t = 6,454743 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -79,3
+      total_d = 3,44 mean_v = 0,53
+t = 6,466351 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,69 prev_inst_a = 72,04
+      total_d = 3,46 mean_v = 0,54
+t = 6,478834 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,78 prev_inst_a = -37,91
+      total_d = 3,47 mean_v = 0,54
+t = 6,490649 : pos = (-4.2, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -32,13
+      total_d = 3,47 mean_v = 0,54
+t = 6,502023 : pos = (-4.1, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,79 prev_inst_a = 77,35
+      total_d = 3,49 mean_v = 0,54
+t = 6,51499 : pos = (-4.1, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -73,69
+      total_d = 3,49 mean_v = 0,54
+t = 6,526772 : pos = (-4.1, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,73 prev_inst_a = 70,08
+      total_d = 3,51 mean_v = 0,54
+t = 6,539001 : pos = (-4.1, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,81 prev_inst_a = -38,55
+      total_d = 3,52 mean_v = 0,54
+t = 6,565799 : pos = (-4.1, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,38 prev_inst_a = -10,91
+      total_d = 3,53 mean_v = 0,54
+t = 6,582523 : pos = (-4.1, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,35 prev_inst_a = 22,15
+      total_d = 3,56 mean_v = 0,54
+t = 6,594966 : pos = (-4.1, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -46,19
+      total_d = 3,56 mean_v = 0,54
+t = 6,606508 : pos = (-4.1, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,13 prev_inst_a = 88,83
+      total_d = 3,58 mean_v = 0,54
+t = 6,618677 : pos = (-4.0, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,8 prev_inst_a = -56
+      total_d = 3,59 mean_v = 0,54
+t = 6,632069 : pos = (-4.0, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -31,41
+      total_d = 3,59 mean_v = 0,54
+t = 6,644335 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,77 prev_inst_a = 69,08
+      total_d = 3,61 mean_v = 0,54
+t = 6,656638 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,85 prev_inst_a = -37,43
+      total_d = 3,62 mean_v = 0,54
+t = 6,678133 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,49 prev_inst_a = -10,69
+      total_d = 3,63 mean_v = 0,54
+t = 6,694214 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -13,08
+      total_d = 3,63 mean_v = 0,54
+t = 6,705819 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,76 prev_inst_a = 99,53
+      total_d = 3,67 mean_v = 0,55
+t = 6,718757 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,76 prev_inst_a = -81,33
+      total_d = 3,68 mean_v = 0,55
+t = 6,731281 : pos = (-4.0, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,83
+      total_d = 3,68 mean_v = 0,55
+t = 6,743197 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,8 prev_inst_a = 73,72
+      total_d = 3,7 mean_v = 0,55
+t = 6,756309 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -71,99
+      total_d = 3,7 mean_v = 0,55
+t = 6,767661 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,85 prev_inst_a = 75,74
+      total_d = 3,72 mean_v = 0,55
+t = 6,780538 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,74 prev_inst_a = -45,92
+      total_d = 3,73 mean_v = 0,55
+t = 6,792635 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,64
+      total_d = 3,73 mean_v = 0,55
+t = 6,803892 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,86 prev_inst_a = 79,77
+      total_d = 3,75 mean_v = 0,55
+t = 6,81632 : pos = (-3.9, 1.7, 4.7) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -78,65
+      total_d = 3,75 mean_v = 0,55
+t = 6,828423 : pos = (-3.9, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,64 prev_inst_a = 66,98
+      total_d = 3,77 mean_v = 0,55
+t = 6,84094 : pos = (-3.9, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,81 prev_inst_a = -33,77
+      total_d = 3,78 mean_v = 0,55
+t = 6,853075 : pos = (-3.9, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -32,93
+      total_d = 3,78 mean_v = 0,55
+t = 6,864575 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,8 prev_inst_a = 76,15
+      total_d = 3,8 mean_v = 0,55
+t = 6,877432 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,75 prev_inst_a = -43,06
+      total_d = 3,81 mean_v = 0,55
+t = 6,890069 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,46
+      total_d = 3,81 mean_v = 0,55
+t = 6,901392 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,89 prev_inst_a = 78,9
+      total_d = 3,83 mean_v = 0,55
+t = 6,914306 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -77,99
+      total_d = 3,83 mean_v = 0,55
+t = 6,926674 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,65 prev_inst_a = 65,08
+      total_d = 3,85 mean_v = 0,56
+t = 6,939119 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,83 prev_inst_a = -32,69
+      total_d = 3,86 mean_v = 0,56
+t = 6,95112 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -34,13
+      total_d = 3,86 mean_v = 0,56
+t = 6,962452 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,81 prev_inst_a = 77,63
+      total_d = 3,88 mean_v = 0,56
+t = 6,976091 : pos = (-3.8, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -72,54
+      total_d = 3,88 mean_v = 0,56
+t = 6,987861 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,78 prev_inst_a = 70,11
+      total_d = 3,9 mean_v = 0,56
+t = 7,000174 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,8 prev_inst_a = -40,64
+      total_d = 3,91 mean_v = 0,56
+t = 7,012509 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -32,56
+      total_d = 3,91 mean_v = 0,56
+t = 7,025894 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,55 prev_inst_a = 60,11
+      total_d = 3,93 mean_v = 0,56
+t = 7,041295 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,73 prev_inst_a = -28,36
+      total_d = 3,94 mean_v = 0,56
+t = 7,054553 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -25,46
+      total_d = 3,94 mean_v = 0,56
+t = 7,067049 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,93 prev_inst_a = 74,77
+      total_d = 3,97 mean_v = 0,56
+t = 7,079517 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,84 prev_inst_a = -43,42
+      total_d = 3,98 mean_v = 0,56
+t = 7,091482 : pos = (-3.7, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -34,44
+      total_d = 3,98 mean_v = 0,56
+t = 7,10371 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,68 prev_inst_a = 69,34
+      total_d = 4 mean_v = 0,56
+t = 7,116446 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,81 prev_inst_a = -34,91
+      total_d = 4,01 mean_v = 0,56
+t = 7,130862 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,69
+      total_d = 4,01 mean_v = 0,56
+t = 7,142926 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,89 prev_inst_a = 71,36
+      total_d = 4,03 mean_v = 0,56
+t = 7,15788 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,68 prev_inst_a = -44,87
+      total_d = 4,04 mean_v = 0,56
+t = 7,170164 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -24,87
+      total_d = 4,04 mean_v = 0,56
+t = 7,182635 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,83 prev_inst_a = 74,08
+      total_d = 4,07 mean_v = 0,57
+t = 7,195899 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -71,26
+      total_d = 4,07 mean_v = 0,56
+t = 7,217027 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,02 prev_inst_a = 29,74
+      total_d = 4,09 mean_v = 0,57
+t = 7,229546 : pos = (-3.6, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -30,4
+      total_d = 4,09 mean_v = 0,57
+t = 7,241458 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 2,37 prev_inst_a = 97,07
+      total_d = 4,11 mean_v = 0,57
+t = 7,253587 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -98,64
+      total_d = 4,11 mean_v = 0,57
+t = 7,264863 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,79 prev_inst_a = 76,49
+      total_d = 4,14 mean_v = 0,57
+t = 7,27691 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,79 prev_inst_a = -43,06
+      total_d = 4,14 mean_v = 0,57
+t = 7,289321 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -32,13
+      total_d = 4,14 mean_v = 0,57
+t = 7,3014 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,7 prev_inst_a = 69,43
+      total_d = 4,17 mean_v = 0,57
+t = 7,313622 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -69,97
+      total_d = 4,17 mean_v = 0,57
+t = 7,325017 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 1,79 prev_inst_a = 75,81
+      total_d = 4,19 mean_v = 0,57
+t = 7,337715 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,75 prev_inst_a = -43,04
+      total_d = 4,2 mean_v = 0,57
+t = 7,35124 : pos = (-3.5, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -28,73
+      total_d = 4,2 mean_v = 0,57
+t = 7,364364 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0,81 prev_inst_a = 30,48
+      total_d = 4,21 mean_v = 0,57
+t = 7,378442 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = -29,86
+      total_d = 4,21 mean_v = 0,57
+t = 7,393004 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,57
+t = 7,405408 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,57
+t = 7,417549 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,57
+t = 7,429436 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,57
+t = 7,440148 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,57
+t = 7,452076 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,464316 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,476488 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 101.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,490427 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 102.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,504217 : pos = (-3.4, 1.7, 4.6) rot = (32.9, 104.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,518621 : pos = (-3.4, 1.7, 4.6) rot = (33.0, 107.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,532307 : pos = (-3.4, 1.7, 4.6) rot = (33.2, 110.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,549001 : pos = (-3.4, 1.7, 4.6) rot = (33.7, 114.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,570854 : pos = (-3.4, 1.7, 4.6) rot = (34.2, 119.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,56
+t = 7,584244 : pos = (-3.4, 1.7, 4.6) rot = (34.2, 122.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,599242 : pos = (-3.4, 1.7, 4.6) rot = (34.2, 125.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,622916 : pos = (-3.4, 1.7, 4.6) rot = (34.0, 128.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,640094 : pos = (-3.4, 1.7, 4.6) rot = (33.8, 131.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,656939 : pos = (-3.4, 1.7, 4.6) rot = (33.9, 133.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,672484 : pos = (-3.4, 1.7, 4.6) rot = (34.2, 135.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,688008 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,702011 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,714431 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,55
+t = 7,725988 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,738609 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,751774 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,763945 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,776128 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,787621 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,799392 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,812535 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,822995 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,834981 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,846228 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,858416 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,54
+t = 7,87 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,881099 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,893305 : pos = (-3.4, 1.7, 4.6) rot = (34.3, 135.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,915363 : pos = (-3.4, 1.7, 4.6) rot = (33.1, 140.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,930071 : pos = (-3.4, 1.7, 4.6) rot = (32.5, 144.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,943273 : pos = (-3.4, 1.7, 4.6) rot = (32.1, 147.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,961545 : pos = (-3.4, 1.7, 4.6) rot = (31.7, 151.7, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,976076 : pos = (-3.4, 1.7, 4.6) rot = (31.5, 153.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 7,99019 : pos = (-3.4, 1.7, 4.6) rot = (31.3, 155.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 8,006889 : pos = (-3.4, 1.7, 4.6) rot = (31.0, 157.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,53
+t = 8,023033 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 160.7, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,038167 : pos = (-3.4, 1.7, 4.6) rot = (30.4, 163.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,052458 : pos = (-3.4, 1.7, 4.6) rot = (30.3, 165.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,064258 : pos = (-3.4, 1.7, 4.6) rot = (30.3, 167.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,077028 : pos = (-3.4, 1.7, 4.6) rot = (30.4, 169.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,090775 : pos = (-3.4, 1.7, 4.6) rot = (30.5, 170.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,103717 : pos = (-3.4, 1.7, 4.6) rot = (30.5, 171.8, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,117504 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 172.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,135191 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,146302 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,161339 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,52
+t = 8,173143 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,184426 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,198706 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,211816 : pos = (-3.4, 1.7, 4.6) rot = (30.6, 173.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,225698 : pos = (-3.4, 1.7, 4.6) rot = (30.7, 174.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,239108 : pos = (-3.4, 1.7, 4.6) rot = (30.8, 176.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,257045 : pos = (-3.4, 1.7, 4.6) rot = (31.0, 178.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,27001 : pos = (-3.4, 1.7, 4.6) rot = (31.1, 178.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,284924 : pos = (-3.4, 1.7, 4.6) rot = (31.2, 179.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,297453 : pos = (-3.4, 1.7, 4.6) rot = (31.2, 180.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,311122 : pos = (-3.4, 1.7, 4.6) rot = (31.3, 181.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,323707 : pos = (-3.4, 1.7, 4.6) rot = (31.4, 182.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,51
+t = 8,340161 : pos = (-3.4, 1.7, 4.6) rot = (31.6, 183.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,5
+t = 8,35435 : pos = (-3.4, 1.7, 4.6) rot = (32.1, 185.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,5
+t = 8,369068 : pos = (-3.4, 1.7, 4.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,5
+t = 8,382233 : pos = (-3.4, 1.7, 4.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,5
+t = 8,403178 : pos = (-3.4, 1.7, 4.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 4,21 mean_v = 0,5
+t = 8,419259 : pos = (-3.4, 1.7, 4.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,2 prev_inst_a = 59,54
+      total_d = 4,24 mean_v = 0,5
+t = 8,432752 : pos = (-3.4, 1.7, 4.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -74,54
+      total_d = 4,24 mean_v = 0,5
+t = 8,44456 : pos = (-3.4, 1.7, 4.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 4,24 prev_inst_a = 167,52
+      total_d = 4,29 mean_v = 0,51
+t = 8,457418 : pos = (-3.5, 1.7, 4.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,55 prev_inst_a = -108,82
+      total_d = 4,31 mean_v = 0,51
+t = 8,469309 : pos = (-3.5, 1.7, 4.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -62,8
+      total_d = 4,31 mean_v = 0,51
+t = 8,481136 : pos = (-3.5, 1.7, 4.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,54 prev_inst_a = 149,31
+      total_d = 4,35 mean_v = 0,51
+t = 8,493998 : pos = (-3.5, 1.7, 4.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -143,44
+      total_d = 4,35 mean_v = 0,51
+t = 8,505546 : pos = (-3.5, 1.7, 4.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,62 prev_inst_a = 148,22
+      total_d = 4,39 mean_v = 0,52
+t = 8,517805 : pos = (-3.5, 1.7, 4.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,59 prev_inst_a = -85,01
+      total_d = 4,41 mean_v = 0,52
+t = 8,530123 : pos = (-3.5, 1.7, 4.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -64,87
+      total_d = 4,41 mean_v = 0,52
+t = 8,542697 : pos = (-3.5, 1.7, 4.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,31 prev_inst_a = 132,89
+      total_d = 4,46 mean_v = 0,52
+t = 8,555658 : pos = (-3.5, 1.7, 4.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -129,54
+      total_d = 4,46 mean_v = 0,52
+t = 8,566995 : pos = (-3.5, 1.7, 4.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,81 prev_inst_a = 156,9
+      total_d = 4,5 mean_v = 0,53
+t = 8,580299 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,44 prev_inst_a = -96,19
+      total_d = 4,52 mean_v = 0,53
+t = 8,594292 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -52,82
+      total_d = 4,52 mean_v = 0,53
+t = 8,606637 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,74 prev_inst_a = 142,08
+      total_d = 4,56 mean_v = 0,53
+t = 8,620033 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,56 prev_inst_a = -84,78
+      total_d = 4,59 mean_v = 0,53
+t = 8,64283 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,99 prev_inst_a = -15,61
+      total_d = 4,61 mean_v = 0,53
+t = 8,655857 : pos = (-3.5, 1.7, 4.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -27,76
+      total_d = 4,61 mean_v = 0,53
+t = 8,667508 : pos = (-3.5, 1.7, 4.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 5,2 prev_inst_a = 210,86
+      total_d = 4,67 mean_v = 0,54
+t = 8,679485 : pos = (-3.5, 1.7, 4.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,65 prev_inst_a = -150,56
+      total_d = 4,69 mean_v = 0,54
+t = 8,691532 : pos = (-3.5, 1.7, 4.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -68,53
+      total_d = 4,69 mean_v = 0,54
+t = 8,703424 : pos = (-3.5, 1.7, 4.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,42 prev_inst_a = 142,83
+      total_d = 4,73 mean_v = 0,54
+t = 8,716786 : pos = (-3.5, 1.7, 4.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,51 prev_inst_a = -75,75
+      total_d = 4,75 mean_v = 0,54
+t = 8,729078 : pos = (-3.5, 1.7, 4.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -58,71
+      total_d = 4,75 mean_v = 0,54
+t = 8,740826 : pos = (-3.5, 1.7, 4.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,7 prev_inst_a = 153,74
+      total_d = 4,79 mean_v = 0,55
+t = 8,752872 : pos = (-3.5, 1.7, 4.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -155,33
+      total_d = 4,79 mean_v = 0,55
+t = 8,764621 : pos = (-3.5, 1.7, 3.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,43 prev_inst_a = 144,03
+      total_d = 4,83 mean_v = 0,55
+t = 8,777326 : pos = (-3.5, 1.7, 3.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,57 prev_inst_a = -76,15
+      total_d = 4,85 mean_v = 0,55
+t = 8,790128 : pos = (-3.5, 1.7, 3.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -61,36
+      total_d = 4,85 mean_v = 0,55
+t = 8,801498 : pos = (-3.5, 1.7, 3.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,8 prev_inst_a = 157,05
+      total_d = 4,9 mean_v = 0,56
+t = 8,815345 : pos = (-3.5, 1.7, 3.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -150,55
+      total_d = 4,9 mean_v = 0,56
+t = 8,827446 : pos = (-3.5, 1.7, 3.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,53 prev_inst_a = 135,92
+      total_d = 4,94 mean_v = 0,56
+t = 8,839599 : pos = (-3.5, 1.7, 3.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,69 prev_inst_a = -75,92
+      total_d = 4,96 mean_v = 0,56
+t = 8,852897 : pos = (-3.5, 1.7, 3.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -66,22
+      total_d = 4,96 mean_v = 0,56
+t = 8,864457 : pos = (-3.5, 1.7, 3.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,73 prev_inst_a = 149,88
+      total_d = 5 mean_v = 0,56
+t = 8,877178 : pos = (-3.5, 1.7, 3.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,54 prev_inst_a = -90,11
+      total_d = 5,02 mean_v = 0,57
+t = 8,890966 : pos = (-3.5, 1.7, 3.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -58,02
+      total_d = 5,02 mean_v = 0,56
+t = 8,902602 : pos = (-3.5, 1.7, 3.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,86 prev_inst_a = 151,65
+      total_d = 5,07 mean_v = 0,57
+t = 8,920086 : pos = (-3.5, 1.7, 3.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,13 prev_inst_a = -93,73
+      total_d = 5,09 mean_v = 0,57
+t = 8,933632 : pos = (-3.5, 1.7, 3.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -36,3
+      total_d = 5,09 mean_v = 0,57
+t = 8,949575 : pos = (-3.5, 1.7, 3.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,29 prev_inst_a = 111,69
+      total_d = 5,14 mean_v = 0,57
+t = 8,961813 : pos = (-3.5, 1.7, 3.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,2 prev_inst_a = -38,64
+      total_d = 5,17 mean_v = 0,58
+t = 8,978641 : pos = (-3.5, 1.7, 3.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,23 prev_inst_a = -33,52
+      total_d = 5,19 mean_v = 0,58
+t = 8,992721 : pos = (-3.5, 1.7, 3.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -39,82
+      total_d = 5,19 mean_v = 0,58
+t = 9,008966 : pos = (-3.5, 1.7, 3.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,22 prev_inst_a = 106,17
+      total_d = 5,24 mean_v = 0,58
+t = 9,023441 : pos = (-3.6, 1.7, 3.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,9 prev_inst_a = -42,98
+      total_d = 5,27 mean_v = 0,58
+t = 9,040338 : pos = (-3.6, 1.7, 3.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,45 prev_inst_a = -14,33
+      total_d = 5,29 mean_v = 0,59
+t = 9,058642 : pos = (-3.6, 1.7, 3.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,56 prev_inst_a = 3,19
+      total_d = 5,32 mean_v = 0,59
+t = 9,076739 : pos = (-3.6, 1.7, 3.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,71 prev_inst_a = 4,11
+      total_d = 5,35 mean_v = 0,59
+t = 9,100238 : pos = (-3.6, 1.7, 3.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,3 prev_inst_a = -9,82
+      total_d = 5,38 mean_v = 0,59
+t = 9,113508 : pos = (-3.6, 1.7, 3.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -35,45
+      total_d = 5,38 mean_v = 0,59
+t = 9,129708 : pos = (-3.6, 1.7, 3.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,84 prev_inst_a = 130,34
+      total_d = 5,44 mean_v = 0,6
+t = 9,141926 : pos = (-3.6, 1.7, 3.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,24 prev_inst_a = -56,2
+      total_d = 5,47 mean_v = 0,6
+t = 9,155175 : pos = (-3.6, 1.7, 3.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -88,12
+      total_d = 5,47 mean_v = 0,6
+t = 9,170802 : pos = (-3.6, 1.7, 3.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,76 prev_inst_a = 95,51
+      total_d = 5,51 mean_v = 0,6
+t = 9,183739 : pos = (-3.6, 1.7, 3.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,04 prev_inst_a = -24,99
+      total_d = 5,54 mean_v = 0,6
+t = 9,196035 : pos = (-3.6, 1.7, 3.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -81,02
+      total_d = 5,54 mean_v = 0,6
+t = 9,213133 : pos = (-3.6, 1.7, 3.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,5 prev_inst_a = 84,97
+      total_d = 5,58 mean_v = 0,61
+t = 9,233501 : pos = (-3.6, 1.7, 3.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,42 prev_inst_a = -28,75
+      total_d = 5,61 mean_v = 0,61
+t = 9,257202 : pos = (-3.6, 1.7, 3.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,45 prev_inst_a = 0,77
+      total_d = 5,65 mean_v = 0,61
+t = 9,274987 : pos = (-3.6, 1.7, 3.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -35,06
+      total_d = 5,65 mean_v = 0,61
+t = 9,28678 : pos = (-3.6, 1.7, 3.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 5,95 prev_inst_a = 201,28
+      total_d = 5,72 mean_v = 0,62
+t = 9,306268 : pos = (-3.6, 1.7, 3.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,02 prev_inst_a = -157,58
+      total_d = 5,74 mean_v = 0,62
+t = 9,323268 : pos = (-3.6, 1.7, 3.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,94 prev_inst_a = 25,1
+      total_d = 5,77 mean_v = 0,62
+t = 9,339436 : pos = (-3.6, 1.7, 3.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,78 prev_inst_a = -4,84
+      total_d = 5,8 mean_v = 0,62
+t = 9,353109 : pos = (-3.6, 1.7, 3.0) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -59,63
+      total_d = 5,8 mean_v = 0,62
+t = 9,368649 : pos = (-3.6, 1.7, 2.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,25 prev_inst_a = 111,24
+      total_d = 5,85 mean_v = 0,62
+t = 9,397368 : pos = (-3.6, 1.7, 2.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,92 prev_inst_a = -52,74
+      total_d = 5,88 mean_v = 0,63
+t = 9,410891 : pos = (-3.6, 1.7, 2.9) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -21,68
+      total_d = 5,88 mean_v = 0,62
+t = 9,426038 : pos = (-3.6, 1.7, 2.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 4,72 prev_inst_a = 164,62
+      total_d = 5,95 mean_v = 0,63
+t = 9,438419 : pos = (-3.6, 1.7, 2.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,07 prev_inst_a = -96,23
+      total_d = 5,97 mean_v = 0,63
+t = 9,450504 : pos = (-3.6, 1.7, 2.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -84,62
+      total_d = 5,97 mean_v = 0,63
+t = 9,467763 : pos = (-3.6, 1.7, 2.8) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,4 prev_inst_a = 81,76
+      total_d = 6,01 mean_v = 0,64
+t = 9,480371 : pos = (-3.6, 1.7, 2.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,32 prev_inst_a = -2,77
+      total_d = 6,04 mean_v = 0,64
+t = 9,493043 : pos = (-3.6, 1.7, 2.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -91,64
+      total_d = 6,04 mean_v = 0,64
+t = 9,510427 : pos = (-3.6, 1.7, 2.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,46 prev_inst_a = 81,88
+      total_d = 6,09 mean_v = 0,64
+t = 9,523314 : pos = (-3.6, 1.7, 2.7) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,28 prev_inst_a = -5,88
+      total_d = 6,12 mean_v = 0,64
+t = 9,54099 : pos = (-3.6, 1.7, 2.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,23 prev_inst_a = -34,33
+      total_d = 6,14 mean_v = 0,64
+t = 9,553679 : pos = (-3.6, 1.7, 2.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -40,64
+      total_d = 6,14 mean_v = 0,64
+t = 9,571303 : pos = (-3.7, 1.7, 2.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,92 prev_inst_a = 96,19
+      total_d = 6,19 mean_v = 0,65
+t = 9,584877 : pos = (-3.7, 1.7, 2.6) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,2 prev_inst_a = -23,03
+      total_d = 6,22 mean_v = 0,65
+t = 9,601983 : pos = (-3.7, 1.7, 2.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,34 prev_inst_a = -27,85
+      total_d = 6,24 mean_v = 0,65
+t = 9,614704 : pos = (-3.7, 1.7, 2.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -45,02
+      total_d = 6,24 mean_v = 0,65
+t = 9,629506 : pos = (-3.7, 1.7, 2.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 3,41 prev_inst_a = 123,91
+      total_d = 6,29 mean_v = 0,65
+t = 9,644959 : pos = (-3.7, 1.7, 2.5) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,62 prev_inst_a = -59,14
+      total_d = 6,32 mean_v = 0,65
+t = 9,661855 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,77 prev_inst_a = -26,19
+      total_d = 6,33 mean_v = 0,66
+t = 9,676972 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,95 prev_inst_a = 5,36
+      total_d = 6,34 mean_v = 0,66
+t = 9,690166 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -33,4
+      total_d = 6,34 mean_v = 0,65
+t = 9,701341 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,14 prev_inst_a = 87,98
+      total_d = 6,37 mean_v = 0,66
+t = 9,713391 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -92,31
+      total_d = 6,37 mean_v = 0,66
+t = 9,725333 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,65 prev_inst_a = 68,59
+      total_d = 6,39 mean_v = 0,66
+t = 9,737447 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,83 prev_inst_a = -33,73
+      total_d = 6,4 mean_v = 0,66
+t = 9,749302 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -34,8
+      total_d = 6,4 mean_v = 0,66
+t = 9,76044 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,82 prev_inst_a = 79,2
+      total_d = 6,42 mean_v = 0,66
+t = 9,77233 : pos = (-3.7, 1.7, 2.4) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -79,08
+      total_d = 6,42 mean_v = 0,66
+t = 9,788545 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,2 prev_inst_a = 42,76
+      total_d = 6,44 mean_v = 0,66
+t = 9,805156 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,83 prev_inst_a = -11,45
+      total_d = 6,45 mean_v = 0,66
+t = 9,817728 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,12 prev_inst_a = 10,01
+      total_d = 6,47 mean_v = 0,66
+t = 9,830067 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -44,88
+      total_d = 6,47 mean_v = 0,66
+t = 9,841221 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,89 prev_inst_a = 80,44
+      total_d = 6,49 mean_v = 0,66
+t = 9,853405 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -80,97
+      total_d = 6,49 mean_v = 0,66
+t = 9,865849 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,59 prev_inst_a = 64,44
+      total_d = 6,51 mean_v = 0,66
+t = 9,878043 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,86 prev_inst_a = -29,37
+      total_d = 6,52 mean_v = 0,66
+t = 9,890097 : pos = (-3.7, 1.7, 2.3) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -35,61
+      total_d = 6,52 mean_v = 0,66
+t = 9,902812 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,61 prev_inst_a = 65,15
+      total_d = 6,54 mean_v = 0,66
+t = 9,916655 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,78 prev_inst_a = -31,49
+      total_d = 6,55 mean_v = 0,66
+t = 9,930351 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -28,22
+      total_d = 6,55 mean_v = 0,66
+t = 9,941586 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,07 prev_inst_a = 83,2
+      total_d = 6,57 mean_v = 0,66
+t = 9,954084 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -87,4
+      total_d = 6,57 mean_v = 0,66
+t = 9,966925 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,56 prev_inst_a = 61,72
+      total_d = 6,59 mean_v = 0,66
+t = 9,980874 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,78 prev_inst_a = -29,31
+      total_d = 6,6 mean_v = 0,66
+t = 9,993802 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -28,98
+      total_d = 6,6 mean_v = 0,66
+t = 10,00495 : pos = (-3.7, 1.7, 2.2) rot = (32.2, 186.1, 0.0)
+      inst_v = 2,04 prev_inst_a = 84,78
+      total_d = 6,62 mean_v = 0,66
+t = 10,01733 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,76 prev_inst_a = -54,38
+      total_d = 6,63 mean_v = 0,66
+t = 10,02994 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -30,46
+      total_d = 6,63 mean_v = 0,66
+t = 10,04244 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,69 prev_inst_a = 67,41
+      total_d = 6,66 mean_v = 0,66
+t = 10,05491 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -67,79
+      total_d = 6,66 mean_v = 0,66
+t = 10,06639 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,84 prev_inst_a = 76,9
+      total_d = 6,68 mean_v = 0,66
+t = 10,08865 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0,44 prev_inst_a = -41,66
+      total_d = 6,69 mean_v = 0,66
+t = 10,10589 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 1,09 prev_inst_a = 16,62
+      total_d = 6,71 mean_v = 0,66
+t = 10,11975 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = -35,14
+      total_d = 6,71 mean_v = 0,66
+t = 10,13274 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,1445 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,15628 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,16772 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,17885 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,19044 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,20249 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,21485 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,22548 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,23672 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,66
+t = 10,24881 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,26009 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,27125 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,28327 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 186.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,29958 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 187.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,31759 : pos = (-3.7, 1.7, 2.1) rot = (32.5, 191.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,33167 : pos = (-3.7, 1.7, 2.1) rot = (32.7, 194.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,34686 : pos = (-3.7, 1.7, 2.1) rot = (32.8, 197.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,36537 : pos = (-3.7, 1.7, 2.1) rot = (32.7, 203.7, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,65
+t = 10,40165 : pos = (-3.7, 1.7, 2.1) rot = (32.5, 216.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,439 : pos = (-3.7, 1.7, 2.1) rot = (34.5, 227.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,47163 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,48594 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,51459 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,52601 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,5373 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,54904 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,64
+t = 10,56126 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,57277 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,58389 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,59676 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,60929 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,62002 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,63186 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,64315 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,65489 : pos = (-3.7, 1.7, 2.1) rot = (34.9, 228.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,66809 : pos = (-3.7, 1.7, 2.1) rot = (34.5, 231.5, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,68357 : pos = (-3.7, 1.7, 2.1) rot = (34.2, 234.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,69668 : pos = (-3.7, 1.7, 2.1) rot = (33.9, 237.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,7123 : pos = (-3.7, 1.7, 2.1) rot = (33.7, 239.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,63
+t = 10,72977 : pos = (-3.7, 1.7, 2.1) rot = (33.2, 243.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,74303 : pos = (-3.7, 1.7, 2.1) rot = (32.7, 245.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,75929 : pos = (-3.7, 1.7, 2.1) rot = (32.2, 248.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,77277 : pos = (-3.7, 1.7, 2.1) rot = (31.7, 250.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,78903 : pos = (-3.7, 1.7, 2.1) rot = (31.0, 253.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,80419 : pos = (-3.7, 1.7, 2.1) rot = (30.8, 255.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,8288 : pos = (-3.7, 1.7, 2.1) rot = (30.3, 257.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,84071 : pos = (-3.7, 1.7, 2.1) rot = (30.3, 258.7, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,85497 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 259.3, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,86918 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 260.0, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,88344 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 260.6, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,8995 : pos = (-3.7, 1.7, 2.1) rot = (30.1, 261.2, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,62
+t = 10,91532 : pos = (-3.7, 1.7, 2.1) rot = (30.1, 262.1, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,92969 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 262.9, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,94188 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,95638 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,97269 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,98321 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 10,99593 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,00773 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,01931 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,03071 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,04182 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,05424 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,06571 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,07721 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,61
+t = 11,09434 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = 0
+      total_d = 6,71 mean_v = 0,6
+t = 11,10913 : pos = (-3.7, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 2 prev_inst_a = 62,74
+      total_d = 6,73 mean_v = 0,61
+t = 11,12221 : pos = (-3.8, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,95 prev_inst_a = -1,74
+      total_d = 6,76 mean_v = 0,61
+t = 11,13447 : pos = (-3.8, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -77,12
+      total_d = 6,76 mean_v = 0,61
+t = 11,14587 : pos = (-3.8, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,84 prev_inst_a = 162,39
+      total_d = 6,8 mean_v = 0,61
+t = 11,15831 : pos = (-3.8, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,58 prev_inst_a = -94,72
+      total_d = 6,82 mean_v = 0,61
+t = 11,17092 : pos = (-3.8, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -63,21
+      total_d = 6,82 mean_v = 0,61
+t = 11,18337 : pos = (-3.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,48 prev_inst_a = 138,81
+      total_d = 6,87 mean_v = 0,61
+t = 11,19649 : pos = (-3.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,64 prev_inst_a = -71,87
+      total_d = 6,89 mean_v = 0,62
+t = 11,20883 : pos = (-3.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -64,43
+      total_d = 6,89 mean_v = 0,61
+t = 11,22081 : pos = (-3.9, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,67 prev_inst_a = 151,04
+      total_d = 6,93 mean_v = 0,62
+t = 11,23358 : pos = (-3.9, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -148,43
+      total_d = 6,93 mean_v = 0,62
+t = 11,24621 : pos = (-4.0, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,39 prev_inst_a = 133,44
+      total_d = 6,98 mean_v = 0,62
+t = 11,25979 : pos = (-4.0, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,61 prev_inst_a = -68,01
+      total_d = 7 mean_v = 0,62
+t = 11,27625 : pos = (-4.0, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -53,47
+      total_d = 7 mean_v = 0,62
+t = 11,28763 : pos = (-4.0, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 4,56 prev_inst_a = 163,86
+      total_d = 7,05 mean_v = 0,62
+t = 11,30138 : pos = (-4.1, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,43 prev_inst_a = -124,56
+      total_d = 7,07 mean_v = 0,63
+t = 11,31425 : pos = (-4.1, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -53,76
+      total_d = 7,07 mean_v = 0,62
+t = 11,32759 : pos = (-4.1, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,45 prev_inst_a = 131,64
+      total_d = 7,11 mean_v = 0,63
+t = 11,34161 : pos = (-4.1, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,64 prev_inst_a = -66,04
+      total_d = 7,14 mean_v = 0,63
+t = 11,35495 : pos = (-4.1, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -60,1
+      total_d = 7,14 mean_v = 0,63
+t = 11,37187 : pos = (-4.2, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 2,8 prev_inst_a = 92,37
+      total_d = 7,19 mean_v = 0,63
+t = 11,38626 : pos = (-4.2, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 2,03 prev_inst_a = -24,38
+      total_d = 7,21 mean_v = 0,63
+t = 11,40232 : pos = (-4.2, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,55 prev_inst_a = -15,85
+      total_d = 7,24 mean_v = 0,63
+t = 11,41687 : pos = (-4.3, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,91 prev_inst_a = 11,7
+      total_d = 7,27 mean_v = 0,64
+t = 11,42878 : pos = (-4.3, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -72,1
+      total_d = 7,27 mean_v = 0,64
+t = 11,44059 : pos = (-4.3, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,87 prev_inst_a = 163,18
+      total_d = 7,31 mean_v = 0,64
+t = 11,45407 : pos = (-4.3, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -153,02
+      total_d = 7,31 mean_v = 0,64
+t = 11,46688 : pos = (-4.4, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,41 prev_inst_a = 129,78
+      total_d = 7,36 mean_v = 0,64
+t = 11,47897 : pos = (-4.4, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,83 prev_inst_a = -63,44
+      total_d = 7,38 mean_v = 0,64
+t = 11,49115 : pos = (-4.4, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -75,51
+      total_d = 7,38 mean_v = 0,64
+t = 11,51319 : pos = (-4.4, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,9 prev_inst_a = 55,63
+      total_d = 7,42 mean_v = 0,64
+t = 11,52601 : pos = (-4.5, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 2,97 prev_inst_a = 30,64
+      total_d = 7,46 mean_v = 0,65
+t = 11,53907 : pos = (-4.5, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,7 prev_inst_a = -49,27
+      total_d = 7,48 mean_v = 0,65
+t = 11,55181 : pos = (-4.5, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -65,78
+      total_d = 7,48 mean_v = 0,65
+t = 11,57016 : pos = (-4.5, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 2,43 prev_inst_a = 78,17
+      total_d = 7,53 mean_v = 0,65
+t = 11,58646 : pos = (-4.6, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,95 prev_inst_a = -13,95
+      total_d = 7,56 mean_v = 0,65
+t = 11,59907 : pos = (-4.6, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 2,24 prev_inst_a = 10,07
+      total_d = 7,59 mean_v = 0,65
+t = 11,61181 : pos = (-4.6, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -88,27
+      total_d = 7,59 mean_v = 0,65
+t = 11,62386 : pos = (-4.6, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,65 prev_inst_a = 147,25
+      total_d = 7,63 mean_v = 0,66
+t = 11,63606 : pos = (-4.6, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -150,55
+      total_d = 7,63 mean_v = 0,66
+t = 11,64798 : pos = (-4.7, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,54 prev_inst_a = 146,96
+      total_d = 7,67 mean_v = 0,66
+t = 11,6614 : pos = (-4.7, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,56 prev_inst_a = -78,44
+      total_d = 7,69 mean_v = 0,66
+t = 11,67429 : pos = (-4.7, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -59,15
+      total_d = 7,69 mean_v = 0,66
+t = 11,6861 : pos = (-4.7, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,92 prev_inst_a = 158,78
+      total_d = 7,74 mean_v = 0,66
+t = 11,6984 : pos = (-4.8, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,7 prev_inst_a = -92,24
+      total_d = 7,76 mean_v = 0,66
+t = 11,71563 : pos = (-4.8, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -57,51
+      total_d = 7,76 mean_v = 0,66
+t = 11,72693 : pos = (-4.8, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 4,65 prev_inst_a = 162,92
+      total_d = 7,81 mean_v = 0,67
+t = 11,73952 : pos = (-4.8, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,61 prev_inst_a = -127,25
+      total_d = 7,83 mean_v = 0,67
+t = 11,75536 : pos = (-4.8, 1.7, 2.0) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -56,56
+      total_d = 7,83 mean_v = 0,67
+t = 11,78763 : pos = (-4.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,58 prev_inst_a = 32,83
+      total_d = 7,88 mean_v = 0,67
+t = 11,80433 : pos = (-4.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,42 prev_inst_a = 37,69
+      total_d = 7,94 mean_v = 0,67
+t = 11,87388 : pos = (-4.9, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0,42 prev_inst_a = -34,8
+      total_d = 7,97 mean_v = 0,67
+t = 11,88689 : pos = (-5.1, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 9,28 prev_inst_a = 107,31
+      total_d = 8,09 mean_v = 0,68
+t = 11,90106 : pos = (-5.1, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,59 prev_inst_a = -283,08
+      total_d = 8,11 mean_v = 0,68
+t = 11,91376 : pos = (-5.1, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -59,2
+      total_d = 8,11 mean_v = 0,68
+t = 11,92618 : pos = (-5.1, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,74 prev_inst_a = 148,86
+      total_d = 8,16 mean_v = 0,68
+t = 11,93864 : pos = (-5.2, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,72 prev_inst_a = -81
+      total_d = 8,18 mean_v = 0,69
+t = 11,95072 : pos = (-5.2, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -70,25
+      total_d = 8,18 mean_v = 0,68
+t = 11,96222 : pos = (-5.2, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,69 prev_inst_a = 156,46
+      total_d = 8,22 mean_v = 0,69
+t = 11,97491 : pos = (-5.2, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -152,45
+      total_d = 8,22 mean_v = 0,69
+t = 11,98679 : pos = (-5.2, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 3,52 prev_inst_a = 143,24
+      total_d = 8,27 mean_v = 0,69
+t = 12 : pos = (-5.3, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 1,55 prev_inst_a = -78,36
+      total_d = 8,29 mean_v = 0,69
+t = 12,01553 : pos = (-5.3, 1.7, 2.1) rot = (30.2, 263.4, 0.0)
+      inst_v = 0 prev_inst_a = -54,09
+      total_d = 8,29 mean_v = 0,69
